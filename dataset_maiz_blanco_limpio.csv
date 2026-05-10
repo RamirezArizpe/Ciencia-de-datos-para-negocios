@@ -1,0 +1,689 @@
+﻿AÑO,ENTIDAD,CULTIVO,VARIEDAD,UNIDAD_MEDIDA,TIPO_TECNOLOGIA,TIPO_PRODUCCION,TIPO_MERCADO,SUPERFICIE_SEMBRADA,SUPERFICIE_COSECHADA,SUPERFICIE_SINIESTRADA,VOLUMEN_PRODUCCION,RENDIMIENTO,PRECIO_MEDIO_RURAL,VALOR_PRODUCCION,TASA_SINIESTRO,EFICIENCIA_COSECHA,PRECIO_X_HECTAREA,VALOR_X_TONELADA
+2002,Campeche,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,148906,46202,102704,31383,0.68,1467.39,46050980,0.689723718,0.310276282,309.2620848,1467.386164
+2003,Aguascalientes,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,53764,51401,2363,58660,1.14,1608.19,94336580,0.043951343,0.956048657,1754.64214,1608.192636
+2003,Baja California Sur,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,2167.5,2147.5,20,14542.45,6.77,1456.4,21179660,0.00922722,0.99077278,9771.469435,1456.402463
+2003,Campeche,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,158330,138054.5,20275.5,189206.83,1.37,1568.65,296798750,0.128058485,0.871941515,1874.557885,1568.647125
+2003,Chiapas,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,264305.12,263018.62,1286.5,638978.23,2.43,1540.3,984217270,0.00486748,0.99513252,3723.791919,1540.298595
+2003,Chihuahua,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,126970.39,42659.39,84311,172290.66,4.04,1505.64,259407900,0.664020958,0.335979042,2043.058228,1505.641107
+2003,Guanajuato,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,239608.9,215068.51,24540.39,897668.86,4.17,1561.91,1402076480,0.102418525,0.897581475,5851.520874,1561.908341
+2003,Guerrero,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,216902.5,213946.5,2956,508792.7,2.38,2353.61,1197500280,0.013628243,0.986371757,5520.915066,2353.611363
+2003,Jalisco,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,262635.2,249448.4,13186.8,1380626.31,5.53,1556.54,2148999410,0.050209568,0.949790432,8182.450068,1556.539517
+2003,Estado de México,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,80470,80445,25,238306.27,2.96,2084.75,496807910,0.000310675,0.999689325,6173.827638,2084.745441
+2003,Michoacán,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,215906.35,209426.78,6479.57,577605.14,2.76,1457.17,841670420,0.030011021,0.969988979,3898.312486,1457.172663
+2003,Nayarit,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,28220.75,28203.25,17.5,140770.78,4.99,1607.8,226330810,0.000620111,0.999379889,8020.013997,1607.796803
+2003,Nuevo León,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,220.8,134.3,86.5,121.61,0.91,1200,145930,0.391757246,0.608242754,660.9148551,1199.983554
+2003,Oaxaca,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,141707,84735,56972,110701.5,1.31,2748.08,304216270,0.402040831,0.597959169,2146.797759,2748.077217
+2003,Puebla,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,10,10,0,35,3.5,3300,115500,0,1,11550,3300
+2003,San Luis Potosí,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,88653.67,67203.92,21449.75,65277.19,0.97,1693.6,110553320,0.241949938,0.758050062,1247.024742,1693.598024
+2003,Sinaloa,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,359343.07,347629.07,11714,2727831.9,7.85,1393.23,3800487700,0.032598375,0.967401625,10576.2098,1393.226503
+2003,Sonora,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,1426,1330,96,7315,5.5,1200,8778000,0.067321178,0.932678822,6155.680224,1200
+2003,Tamaulipas,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,29045,26601,2444,42082.9,1.58,1610.28,67765290,0.084145292,0.915854708,2333.113789,1610.280898
+2003,Veracruz,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,68425.5,54448,13977.5,76186.01,1.4,1683.23,128238240,0.204273261,0.795726739,1874.129382,1683.225569
+2003,Yucatán,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,35546.5,29196,6350.5,36570.7,1.25,1525.06,55772600,0.178653313,0.821346687,1569.003981,1525.062413
+2004,Aguascalientes,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,53056,48124,4932,49059,1.02,1620.8,79514810,0.092958384,0.907041616,1498.695906,1620.799649
+2004,Baja California,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,592,10,582,25,2.5,2020,50500,0.983108108,0.016891892,85.30405405,2020
+2004,Baja California Sur,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,8043.25,7535.75,507.5,38301.15,5.08,1457.51,55824330,0.063096385,0.936903615,6940.519069,1457.510545
+2004,Campeche,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,151284,132305,18979,272186.18,2.06,1505.79,409855800,0.125452791,0.874547209,2709.181407,1505.792102
+2004,Coahuila,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,39557.32,37693.5,1863.82,50848.75,1.35,2224.99,113138160,0.047116943,0.952883057,2860.106802,2224.993928
+2004,Colima,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,11982.5,11982.5,0,35962.85,3,1769.85,63648990,0,1,5311.828917,1769.853891
+2004,Chiapas,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,896818.36,842685.03,54133.33,1327573.11,1.58,1745.93,2317853500,0.060361532,0.939638468,2584.529492,1745.932847
+2004,Chihuahua,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,208200.64,133367.12,74833.52,277764.41,2.08,1711.75,475464540,0.359429827,0.640570173,2283.684334,1711.75472
+2004,Ciudad de México,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,6248.8,6227.3,21.5,9410.63,1.51,2922.43,27501890,0.003440661,0.996559339,4401.14742,2922.428148
+2004,Durango,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,200576.2,193615.79,6960.41,374631.84,1.93,1611.03,603542980,0.034702073,0.965297927,3009.045839,1611.029591
+2004,Guanajuato,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,439027.3,406755.38,32271.92,1638580.24,4.03,1495.08,2449813520,0.073507775,0.926492225,5580.093812,1495.083036
+2004,Guerrero,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,488757.25,479458.85,9298.4,1146193.7,2.39,2203.91,2526108120,0.019024577,0.980975423,5168.430995,2203.910316
+2004,Hidalgo,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,277821.23,265945.46,11875.77,618153.43,2.32,1822.73,1126724750,0.042746085,0.957253915,4055.574695,1822.726681
+2004,Jalisco,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,550827.25,533674.25,17153,2996379.04,5.61,1570.84,4706840350,0.031140435,0.968859565,8545.03903,1570.84277
+2004,Estado de México,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,545119.35,538683.19,6436.16,1564187.25,2.9,1641.81,2568096330,0.011806882,0.988193118,4711.071676,1641.80876
+2004,Michoacán,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,464542.42,420570.88,43971.54,1230552.63,2.93,1485.08,1827469760,0.094655597,0.905344403,3933.913635,1485.080537
+2004,Morelos,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,28353.05,28353.05,0,83965.27,2.96,2057.92,172793410,0,1,6094.349991,2057.915255
+2004,Nayarit,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,50538.45,50510.45,28,197861.81,3.92,1564.27,309508630,0.000554034,0.999445966,6124.220865,1564.266647
+2004,Nuevo León,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,69407.7,68569.7,838,70312.25,1.03,1750.18,123059040,0.012073588,0.987926412,1772.9883,1750.179236
+2004,Oaxaca,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,604238,535635.5,68602.5,694116.41,1.3,2452.35,1702217530,0.11353556,0.88646444,2817.130882,2452.35166
+2004,Puebla,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,564661,482650.46,82010.54,855353.72,1.77,1872.73,1601849150,0.145238541,0.854761459,2836.833339,1872.733014
+2004,Querétaro,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,115382.4,102749.6,12632.8,307361.3,2.99,1516.98,466260730,0.109486369,0.890513631,4041.003914,1516.979301
+2004,Quintana Roo,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,70254,24036,46218,16782.11,0.7,1963.6,32953370,0.657870015,0.342129985,469.0604094,1963.60112
+2004,San Luis Potosí,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,263763.5,218648.15,45115.35,185657.71,0.85,1520.26,282247710,0.171044705,0.828955295,1070.078726,1520.258491
+2004,Sinaloa,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,539529.08,503002.08,36527,4003626.58,7.96,1540.9,6169197240,0.067701633,0.932298367,11434.41099,1540.902259
+2004,Sonora,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,36066,18181,17885,75988.56,4.18,1345.44,102237720,0.495896412,0.504103588,2834.739644,1345.435681
+2004,Tabasco,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,99721,92014,7707,150828,1.64,1580.74,238420000,0.077285627,0.922714373,2390.870529,1580.740976
+2004,Tamaulipas,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,159735.87,116786.86,42949.01,405876.53,3.48,1577.77,640380710,0.268875175,0.731124825,4008.997541,1577.772211
+2004,Tlaxcala,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,120486,120118,368,292185.8,2.43,1666.3,486868980,0.003054297,0.996945703,4040.875952,1666.299252
+2004,Veracruz,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,540867.23,505577.36,35289.87,1000500.35,1.98,1904.26,1905213750,0.065246826,0.934753174,3522.516515,1904.260953
+2004,Yucatán,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,152155,146052.1,6102.9,125293.77,0.86,1753.39,219688350,0.040109756,0.959890244,1443.845749,1753.386062
+2004,Zacatecas,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,324423,321224.25,3198.75,412969,1.29,1765.48,729088750,0.009859813,0.990140187,2247.339893,1765.480581
+2005,Aguascalientes,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,45502,23586,21916,41394.1,1.76,1717.07,71076490,0.481649158,0.518350842,1562.051998,1717.068133
+2005,Baja California,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,731,553,178,539.64,0.98,1900,1025319,0.243502052,0.756497948,1402.625171,1900.005559
+2005,Baja California Sur,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,4546.5,4339.5,207,28121.85,6.48,1576.08,44322190,0.045529528,0.954470472,9748.639613,1576.076609
+2005,Campeche,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,146249.25,137739.25,8510,351847.32,2.55,1426.99,502083790,0.058188333,0.941811667,3433.069161,1426.993362
+2005,Coahuila,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,29898.22,21595.72,8302.5,18367.55,0.85,1969.35,36172180,0.277692117,0.722307883,1209.843931,1969.352472
+2005,Colima,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,11568,11568,0,37521.39,3.24,1724.38,64701210,0,1,5593.119813,1724.382013
+2005,Chiapas,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,715687.87,680981.99,34705.88,1228506.03,1.8,1799.99,2211294220,0.048493039,0.951506961,3089.74668,1799.98646
+2005,Chihuahua,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,158540.39,63936.08,94604.31,203834.48,3.19,1381.25,281545510,0.596720558,0.403279442,1775.85983,1381.245754
+2005,Ciudad de México,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,6120.8,5761.7,359.1,5936.94,1.03,2260.24,13418930,0.058668801,0.941331199,2192.349039,2260.243492
+2005,Durango,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,175662.26,92026.76,83635.5,254960.65,2.77,1498.4,382032830,0.476115359,0.523884641,2174.814499,1498.399184
+2005,Guanajuato,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,389533.5,226480.12,163053.38,1037034.72,4.58,1364.66,1415204180,0.418586283,0.581413717,3633.074383,1364.664223
+2005,Guerrero,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,486315.52,477305.77,9009.75,1195169.25,2.5,2357.94,2818138590,0.018526552,0.981473448,5794.876935,2357.941011
+2005,Hidalgo,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,237612.5,220119.75,17492.75,553721.73,2.52,1726.12,955787620,0.073618812,0.926381188,4022.463549,1726.115426
+2005,Jalisco,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,522877.82,484235.55,38642.27,2285009.03,4.72,1406.83,3214619050,0.073903058,0.926096942,6147.935382,1406.829911
+2005,Estado de México,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,523494.45,461916.93,61577.52,1166299.1,2.52,1674.47,1952933730,0.117627837,0.882372163,3730.571986,1674.470751
+2005,Michoacán,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,486741.67,449785.91,36955.76,1288971.91,2.87,1448.41,1866965210,0.075924792,0.924075208,3835.638749,1448.414194
+2005,Morelos,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,29761.9,29754.9,7,84419.42,2.84,2124.76,179371080,0.0002352,0.9997648,6026.869252,2124.760867
+2005,Nayarit,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,50300.5,47384.5,2916,121783.19,2.57,1489,181335450,0.057971591,0.942028409,3605.042693,1489.0023
+2005,Nuevo León,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,66726.1,65956.5,769.6,71147.32,1.08,1509.17,107373240,0.011533718,0.988466282,1609.16403,1509.167738
+2005,Oaxaca,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,576665,485277.27,91387.73,601227.92,1.24,2473.23,1486974330,0.15847629,0.84152371,2578.575655,2473.229004
+2005,Puebla,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,540945,398153,142792,768802.28,1.93,1606.13,1234792590,0.263967686,0.736032314,2282.658292,1606.125036
+2005,Querétaro,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,106729.2,66906.1,39823.1,202051,3.02,1364.62,275723490,0.373122819,0.626877181,2583.393204,1364.623239
+2005,Quintana Roo,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,64272,45506,18766,36381,0.8,2192.59,79768700,0.291977844,0.708022156,1241.111215,2192.592287
+2005,San Luis Potosí,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,236465.5,176867,59598.5,169720.05,0.96,1663.57,282342000,0.252038881,0.747961119,1194.009274,1663.57481
+2005,Sinaloa,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,530700.69,479615.69,51085,4192502.45,8.74,1301.59,5456931300,0.096259532,0.903740468,10282.50274,1301.592871
+2005,Sonora,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,25837,20457,5380,119532.5,5.84,1487.31,177781810,0.20822851,0.79177149,6880.899872,1487.309393
+2005,Tabasco,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,82985,66447,16538,102161,1.54,1734.14,177161750,0.199289028,0.800710972,2134.864735,1734.142677
+2005,Tamaulipas,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,164421.08,142085.08,22336,431631.46,3.04,1397.85,603354560,0.135846328,0.864153672,3669.569376,1397.84658
+2005,Tlaxcala,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,117962.5,117811,151.5,189862.91,1.61,1429.95,271493620,0.001284306,0.998715694,2301.524807,1429.945533
+2005,Veracruz,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,583715.63,482175.51,101540.12,869690.95,1.8,1907.27,1658732310,0.173954773,0.826045227,2841.678764,1907.26638
+2005,Yucatán,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,171550.3,95709.42,75840.88,102733.25,1.07,1706.59,175323750,0.442091212,0.557908788,1021.996173,1706.592072
+2005,Zacatecas,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,256358,132555.5,123802.5,200401.15,1.51,1846.66,370072040,0.482928171,0.517071829,1443.575157,1846.656269
+2006,Aguascalientes,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,43735,37618,6117,51243,1.36,1937.78,99297870,0.139865097,0.860134903,2270.444038,1937.784088
+2006,Baja California,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,283,33,250,85.8,2.6,2100,180180,0.883392226,0.116607774,636.6784452,2100
+2006,Baja California Sur,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,4847.5,4563,284.5,26238.2,5.75,1662.33,43616500,0.058690046,0.941309954,8997.730789,1662.328208
+2006,Campeche,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,131954,128824,3130,302433.2,2.35,1777.84,537679080,0.023720387,0.976279613,4074.746351,1777.844099
+2006,Coahuila,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,26706,18653,8053,19949.47,1.07,1830.33,36514020,0.301542724,0.698457276,1367.259043,1830.325317
+2006,Colima,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,10355.01,10355.01,0,31193.35,3.01,2387.69,74479900,0,1,7192.643947,2387.685196
+2006,Chiapas,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,704565.47,701603.47,2962,1309937.95,1.87,2176.45,2851013750,0.00420401,0.99579599,4046.485205,2176.449465
+2006,Chihuahua,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,93093.15,86975.49,6117.66,150844.32,1.73,1854.85,279794280,0.065715469,0.934284531,3005.530267,1854.854594
+2006,Ciudad de México,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,6296.6,6296.6,0,8096.14,1.29,3019.03,24442510,0,1,3881.858463,3019.032527
+2006,Durango,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,191337.75,188815.75,2522,342148.83,1.81,2016.75,690028360,0.01318088,0.98681912,3606.336753,2016.749144
+2006,Guanajuato,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,389076.13,323644.62,65431.51,1058592.98,3.27,2116.77,2240798850,0.168171484,0.831828516,5759.281223,2116.770933
+2006,Guerrero,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,468667,463475,5192,1205749.07,2.6,2154.92,2598288520,0.011078228,0.988921772,5543.997166,2154.916462
+2006,Hidalgo,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,244747.13,237535.23,7211.9,639959.23,2.69,2179.95,1395082220,0.02946674,0.97053326,5700.09634,2179.954839
+2006,Jalisco,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,531311.65,506387.15,24924.5,2740716.92,5.41,2448.95,6711877250,0.046911262,0.953088738,12632.6559,2448.94947
+2006,Estado de México,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,560125,554225.42,5899.58,1740506.23,3.14,2203.55,3835294850,0.010532613,0.989467387,6847.212408,2203.551348
+2006,Michoacán,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,402167.82,384936.27,17231.55,1382227.86,3.59,2105.72,2910578160,0.042846665,0.957153335,7237.222909,2105.71516
+2006,Morelos,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,25599,25367.94,231.06,77884.13,3.07,2853.99,222280410,0.009026134,0.990973866,8683.167702,2853.988483
+2006,Nayarit,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,42727.25,41864.25,863,172654.37,4.12,2302.32,397506440,0.020197883,0.979802117,9303.347161,2302.324812
+2006,Nuevo León,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,33646.5,32521.5,1125,35191.85,1.08,1641.9,57781520,0.03343587,0.96656413,1717.311459,1641.900611
+2006,Oaxaca,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,565243.25,478284,86959.25,627865.55,1.31,2756.33,1730606520,0.153843942,0.846156058,3061.702232,2756.332976
+2006,Puebla,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,568857.55,529860.46,38997.09,995907.83,1.88,2057.99,2049572260,0.068553349,0.931446651,3602.962218,2057.993921
+2006,Querétaro,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,106628.2,59399.2,47229,189430.12,3.19,2035.36,385559380,0.442931607,0.557068393,3615.92318,2035.364703
+2006,Quintana Roo,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,61760,61303,457,48504.1,0.79,2326.67,112852950,0.007399611,0.992600389,1827.282222,2326.668261
+2006,San Luis Potosí,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,235356.09,165166.34,70189.75,162991.05,0.99,1942.77,316654280,0.298227889,0.701772111,1345.426328,1942.770968
+2006,Sinaloa,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,507561.75,485034.55,22527.2,4327682.72,8.92,1448.07,6266775270,0.044383171,0.955616829,12346.82336,1448.06717
+2006,Sonora,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,31750.8,31135.8,615,186631.55,5.99,1538.09,287056240,0.019369591,0.980630409,9040.913615,1538.090639
+2006,Tabasco,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,87486,78148.5,9337.5,126382,1.62,2056.2,259867240,0.106731363,0.893268637,2970.386576,2056.204523
+2006,Tamaulipas,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,121258.3,99180.3,22078,212096.2,2.14,1734.08,367791670,0.182074134,0.817925866,3033.125732,1734.079488
+2006,Tlaxcala,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,116754.5,116330.5,424,266601.09,2.29,1803.12,480712690,0.003631552,0.996368448,4117.294751,1803.115996
+2006,Veracruz,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,570613.54,533181.79,37431.75,1083759.13,2.03,1968.56,2133441000,0.065599127,0.934400873,3738.854497,1968.556426
+2006,Yucatán,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,152613.46,147215.85,5397.61,138007.79,0.94,2221.85,306633050,0.03536785,0.96463215,2009.21367,2221.853201
+2006,Zacatecas,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,290496,283841,6655,399365.13,1.41,1956.82,781484050,0.022909093,0.977090907,2690.171465,1956.815934
+2007,Aguascalientes,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,49477,21265,28212,47222.15,2.22,2700.39,127518200,0.570204337,0.429795663,2577.322796,2700.389542
+2007,Baja California Sur,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,4691,4556.25,134.75,27331.55,6,2435.39,66562979,0.028725219,0.971274781,14189.50735,2435.389833
+2007,Campeche,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,144026,90740.25,53285.75,163457.52,1.8,2261.37,369637210,0.36997313,0.63002687,2566.461681,2261.365583
+2007,Coahuila,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,31397,27223,4174,23934.09,0.88,2485.58,59490190,0.132942638,0.867057362,1894.773067,2485.583952
+2007,Colima,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,15334,15334,0,43403.45,2.83,2486.24,107911430,0,1,7037.395983,2486.24084
+2007,Chiapas,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,572714.48,563777.06,8937.42,1202420.97,2.13,2476.04,2977242690,0.015605368,0.984394632,5198.476368,2476.040226
+2007,Chihuahua,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,176085.39,147210.56,28874.83,282177.56,1.92,2109.68,595304810,0.163981975,0.836018025,3380.773442,2109.681613
+2007,Ciudad de México,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,6234.8,6084.8,150,9467.11,1.56,4060.34,38439680,0.02405851,0.97594149,6165.342914,4060.339428
+2007,Durango,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,205561.34,167947.84,37613.5,290316.51,1.73,2218.38,644030900,0.182979445,0.817020555,3133.035132,2218.375042
+2007,Guanajuato,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,419723.3,356038.7,63684.6,1355966.34,3.81,2180.3,2956414170,0.151729961,0.848270039,7043.721828,2180.30056
+2007,Guerrero,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,446532.5,440889.85,5642.65,1244983.51,2.82,2757.23,3432706960,0.012636594,0.987363406,7687.473946,2757.230865
+2007,Hidalgo,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,254921.88,225763.18,29158.7,583579.69,2.58,2573.88,1502062200,0.114382885,0.885617115,5892.245107,2573.876757
+2007,Jalisco,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,559656.4,534288.1,25368.3,3013946.52,5.64,2331.98,7028461410,0.045328348,0.954671652,12558.5295,2331.979471
+2007,Estado de México,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,567179.2,559929.1,7250.1,1953190.52,3.49,2639.4,5155248060,0.012782733,0.987217267,9089.275594,2639.398465
+2007,Michoacán,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,475447.25,457233.56,18213.69,1543224.09,3.38,2305.62,3558085880,0.03830854,0.96169146,7483.660658,2305.618415
+2007,Morelos,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,24471.1,24432.1,39,79970.15,3.27,3276.61,262031370,0.001593717,0.998406283,10707.78878,3276.614712
+2007,Nayarit,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,52387.59,52382.59,5,218936.43,4.18,2640.95,578200660,9.54E-05,0.999904558,11036.97765,2640.952262
+2007,Nuevo León,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,60305.86,58456.3,1849.56,58518.7,1,1931.97,113056100,0.030669656,0.969330344,1874.711678,1931.965338
+2007,Oaxaca,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,595763,560185,35578,766744.06,1.37,3332.07,2554842390,0.059718378,0.940281622,4288.353573,3332.066752
+2007,Puebla,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,581395.8,504188.26,77207.54,920890.33,1.83,2691.26,2478353120,0.132796866,0.867203134,4262.764058,2691.257622
+2007,Querétaro,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,117502.8,108062.4,9440.4,376460.23,3.48,1982.22,746226860,0.080341915,0.919658085,6350.715557,1982.219636
+2007,Quintana Roo,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,64581.5,26283.3,38298.2,15692.04,0.6,2680.5,42062560,0.593021221,0.406978779,651.3097404,2680.502981
+2007,San Luis Potosí,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,259866.48,188471.3,71395.18,174875.39,0.93,2537.66,443774230,0.274737935,0.725262065,1707.700932,2537.659702
+2007,Sinaloa,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,585613.91,580567.91,5046,5087648.86,8.76,2342.34,11917008640,0.008616599,0.991383401,20349.59969,2342.341024
+2007,Sonora,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,25511.6,25399.6,112,143342.35,5.64,1828.63,262119500,0.00439016,0.99560984,10274.52218,1828.625664
+2007,Tabasco,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,85700.5,59313.25,26387.25,91936.52,1.55,2848.57,261887230,0.307900771,0.692099229,3055.842498,2848.565837
+2007,Tamaulipas,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,129621.74,125121.49,4500.25,339811.17,2.72,2421.99,823018360,0.034718327,0.965281673,6349.385219,2421.987364
+2007,Tlaxcala,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,116103.25,116078.25,25,261934.24,2.26,2298.35,602015450,0.000215326,0.999784674,5185.173111,2298.34576
+2007,Veracruz,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,540024.67,458561.96,81462.71,958903.22,2.09,2779.83,2665586250,0.150849979,0.849150021,4936.045329,2779.82824
+2007,Yucatán,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,139265.44,132881.16,6384.28,121237.21,0.91,2901.91,351819660,0.045842529,0.954157471,2526.252457,2901.91155
+2007,Zacatecas,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,343227,254082,89145,375926.92,1.48,2418.78,909283380,0.259726071,0.740273929,2649.21868,2418.776979
+2008,Aguascalientes,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,55159,53605,1554,83703.6,1.56,2843.18,237984640,0.0281731,0.9718269,4314.520568,2843.18285
+2008,Baja California Sur,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,4774,4739.5,34.5,28050.65,5.92,2497.83,70065660,0.007226644,0.992773356,14676.51026,2497.82661
+2008,Campeche,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,141895,99174.43,42720.57,213786.45,2.16,2682.07,573389730,0.301071708,0.698928292,4040.943867,2682.06769
+2008,Coahuila,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,30835,19614,11221,22051.63,1.12,2522.92,55634570,0.363904654,0.636095346,1804.266904,2522.923249
+2008,Colima,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,13767,13446.5,320.5,39591,2.94,3374.07,133582980,0.023280308,0.976719692,9703.129222,3374.074411
+2008,Chiapas,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,599087.16,592663.66,6423.5,1355297.2,2.29,2765.73,3748379710,0.010722146,0.989277854,6256.818641,2765.725267
+2008,Chihuahua,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,131996.01,106964.28,25031.73,208433.56,1.95,3083.55,642715530,0.18964005,0.81035995,4869.204228,3083.551085
+2008,Ciudad de México,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,6069.4,6069.4,0,8378.14,1.38,4247.72,35588000,0,1,5863.512044,4247.720855
+2008,Durango,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,189836.75,174848.95,14987.8,310877.18,1.78,2707.63,841740600,0.078950993,0.921049007,4434.023444,2707.630711
+2008,Guanajuato,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,396360.56,355184.36,41176.2,1499194.28,4.22,2575.67,3861433720,0.103885715,0.896114285,9742.224908,2575.672661
+2008,Guerrero,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,480093.25,476905.25,3188,1399620.72,2.93,2852.41,3992295680,0.006640377,0.993359623,8315.667175,2852.412531
+2008,Hidalgo,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,255520.3,247499.55,8020.75,627557,2.54,2908.29,1825119070,0.031389874,0.968610126,7142.755664,2908.292107
+2008,Jalisco,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,549054.2,532776,16278.2,2965574.75,5.57,2699.2,8004674450,0.029647711,0.970352289,14579.02417,2699.198343
+2008,Estado de México,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,543293.8,541118.8,2175,1846761.52,3.41,3027.55,5591166780,0.004003359,0.995996641,10291.2398,3027.552134
+2008,Michoacán,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,459597.75,448226.33,11371.42,1580338.07,3.53,2633.72,4162171860,0.024742114,0.975257886,9056.118878,2633.722454
+2008,Morelos,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,24063.1,24049.3,13.8,83955.57,3.49,3381.59,283903120,0.000573492,0.999426508,11798.27703,3381.587666
+2008,Nayarit,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,44433.2,44294.7,138.5,178918.79,4.04,2816.61,503943910,0.003117039,0.996882961,11341.6074,2816.606965
+2008,Nuevo León,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,12735.8,12331.8,404,29936.5,2.43,2795.46,83686210,0.031721604,0.968278396,6570.94254,2795.457385
+2008,Oaxaca,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,603898.25,596740.7,7157.55,785594.02,1.32,3458.55,2717014140,0.011852245,0.988147755,4499.125705,3458.54738
+2008,Puebla,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,587846.31,541550.28,46296.03,997023.72,1.84,2861.92,2853399270,0.07875533,0.92124467,4853.988571,2861.917137
+2008,Querétaro,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,113060.8,111660.9,1399.9,311988.98,2.79,2414.89,753419410,0.012381833,0.987618167,6663.842906,2414.891096
+2008,Quintana Roo,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,66042,9660,56382,4160.32,0.43,2620.07,10900320,0.853729445,0.146270555,165.051331,2620.067687
+2008,San Luis Potosí,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,261989.25,208234.6,53754.65,218559.84,1.05,3053.49,667369670,0.205178838,0.794821162,2547.316999,3053.487182
+2008,Sinaloa,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,603745.85,579590.63,24155.22,5337296.92,9.21,2781.72,14846859050,0.040008921,0.959991079,24591.23992,2781.718775
+2008,Sonora,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,29024.5,28730,294.5,176802.84,6.15,2385.26,421721430,0.0101466,0.9898534,14529.84306,2385.263891
+2008,Tabasco,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,87858.31,73496.31,14362,124105,1.69,2920.56,362455560,0.163467747,0.836532253,4125.455634,2920.555659
+2008,Tamaulipas,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,111856.96,103390.96,8466,243076.55,2.35,2688.09,653412760,0.075685947,0.924314053,5841.502934,2688.094594
+2008,Tlaxcala,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,110199,109595,604,298770.15,2.73,2691.18,804044370,0.005480993,0.994519007,7296.294612,2691.180394
+2008,Veracruz,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,579504.31,543623.56,35880.75,1313122.95,2.42,3040.83,3992989170,0.061916278,0.938083722,6890.352843,3040.834196
+2008,Yucatán,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,145635.44,28328.21,117307.23,26851.41,0.95,3220.26,86468530,0.805485464,0.194514536,593.732748,3220.260314
+2008,Zacatecas,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,280568.5,263771.21,16797.29,400016.76,1.52,2774.79,1109964230,0.059868766,0.940131234,3956.125616,2774.794311
+2009,Aguascalientes,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,41189,9046,32143,45283,5.01,3230.35,146279750,0.780378256,0.219621744,3551.427566,3230.345825
+2009,Baja California Sur,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,4285.75,3983.25,302.5,20715.83,5.2,2512.36,52045700,0.070582745,0.929417255,12143.89547,2512.363733
+2009,Campeche,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,137667,131012,6655,272139.89,2.08,2461.91,669984170,0.048341287,0.951658713,4866.701315,2461.910931
+2009,Coahuila,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,28095,14038.5,14056.5,16192.1,1.15,2964.02,47993650,0.500320342,0.499679658,1708.263036,2964.016403
+2009,Colima,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,13370,12608,762,28733.3,2.28,2629.08,75542120,0.056993269,0.943006731,5650.121167,2629.079152
+2009,Chiapas,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,606455.06,604765.27,1689.79,1079607.9,1.79,3007.08,3246466930,0.00278634,0.99721366,5353.186319,3007.079635
+2009,Chihuahua,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,110659.99,107092.49,3567.5,186398.79,1.74,2368.98,441574610,0.032238391,0.967761609,3990.372763,2368.977878
+2009,Ciudad de México,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,5881.4,5881.4,0,7963.88,1.35,4366.32,34772890,0,1,5912.349101,4366.325208
+2009,Durango,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,181030,168108.5,12921.5,334089.25,1.99,2661.44,889156930,0.071377672,0.928622328,4911.65514,2661.43532
+2009,Guanajuato,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,383253.88,179741.25,203512.63,844469.96,4.7,2644.34,2233069190,0.531012576,0.468987424,5826.605565,2644.34414
+2009,Guerrero,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,481857,463542.25,18314.75,1132513.99,2.44,2924.67,3312226990,0.038008683,0.961991317,6873.879574,2924.667615
+2009,Hidalgo,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,252539.8,178794.8,73745,513060.42,2.87,2905.47,1490679500,0.292013378,0.707986622,5902.750774,2905.465793
+2009,Jalisco,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,534085.57,461758.22,72327.35,2189595.57,4.74,2609.24,5713183700,0.135422775,0.864577225,10697.13173,2609.241532
+2009,Estado de México,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,542786.21,520717.21,22069,1271110.57,2.44,3067.06,3898576070,0.040658734,0.959341266,7182.526008,3067.062899
+2009,Michoacán,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,471920.75,350914.08,121006.67,1168047.29,3.33,2681.15,3131706050,0.256413116,0.743586884,6636.08466,2681.146625
+2009,Morelos,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,23371.6,23027.6,344,69581.06,3.02,3482.99,242350250,0.014718718,0.985281282,10369.43341,3482.991636
+2009,Nayarit,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,46648,43403,3245,196384.51,4.52,2765.83,543167030,0.06956354,0.93043646,11643.95108,2765.834383
+2009,Nuevo León,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,14718.5,13248.5,1470,35932.48,2.71,3340.66,120038250,0.099874308,0.900125692,8155.603492,3340.661429
+2009,Oaxaca,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,606059.75,467614.2,138445.55,594932.13,1.27,3592.97,2137574740,0.22843548,0.77156452,3527.003303,3592.972429
+2009,Puebla,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,589424.1,300266.16,289157.94,636054.92,2.12,3460.33,2200961970,0.490577056,0.509422944,3734.088867,3460.333221
+2009,Querétaro,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,113265.2,77083.2,36182,214760.57,2.79,2518.75,540928890,0.319444984,0.680555016,4775.773053,2518.75328
+2009,Quintana Roo,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,70890.55,68098.55,2792,29444.56,0.43,3093.76,91094470,0.039384657,0.960615343,1285.001598,3093.762311
+2009,San Luis Potosí,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,199902.76,69824.8,130077.96,114074.58,1.63,2853.26,325484540,0.650706173,0.349293827,1628.214338,2853.260911
+2009,Sinaloa,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,561244.33,531534.83,29709.5,5183860.72,9.75,2686.71,13927521950,0.052935056,0.947064944,24815.43457,2686.708363
+2009,Sonora,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,19514,18356,1158,103487.95,5.64,2516.92,260470400,0.059342011,0.940657989,13347.87332,2516.915254
+2009,Tabasco,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,80855,75752.25,5102.75,117533.77,1.55,3242.18,381065250,0.063109888,0.936890112,4712.946014,3242.176695
+2009,Tamaulipas,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,93578.35,59329.88,34248.47,174245.36,2.94,2433.62,424046880,0.365987111,0.634012889,4531.463528,2433.619351
+2009,Tlaxcala,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,110485,110485,0,260386.5,2.36,2986.82,777727920,0,1,7039.217269,2986.821206
+2009,Veracruz,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,568927.3,519433.07,49494.23,1123811.3,2.16,3166.46,3558508340,0.086995702,0.913004298,6254.768122,3166.464281
+2009,Yucatán,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,136324.61,78670.77,57653.84,40937.42,0.52,3151.84,129028270,0.422915862,0.577084138,946.4781891,3151.841762
+2009,Zacatecas,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,281141,164079.75,117061.25,327294.29,1.99,2644.24,865445260,0.416379148,0.583620852,3078.331727,2644.241853
+2010,Aguascalientes,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,46305,19777,26528,51319.61,2.59,2917.59,149729820,0.572897095,0.427102905,3233.556203,2917.594658
+2010,Baja California Sur,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,2794.5,2792.5,2,17094.55,6.12,2633.91,45025550,0.000715692,0.999284308,16112.20254,2633.912563
+2010,Campeche,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,136930,134266,2664,369465.61,2.75,2934.34,1084138380,0.019455196,0.980544804,7917.464252,2934.341792
+2010,Coahuila,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,33979.5,33024.75,954.75,39277.52,1.19,2914.98,114493020,0.028097824,0.971902176,3369.473359,2914.975793
+2010,Colima,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,12610.5,12610.5,0,38141.05,3.02,2803.69,106935600,0,1,8479.885809,2803.68789
+2010,Chiapas,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,619146.52,608635.52,10511,1253106.9,2.06,3157.84,3957109200,0.016976595,0.983023405,6391.23224,3157.838489
+2010,Chihuahua,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,123211.78,119157.78,4054,227802.92,1.91,2485.2,566135620,0.032902698,0.967097302,4594.817314,2485.199136
+2010,Ciudad de México,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,5647.01,5497.01,150,8828.95,1.61,4069.53,35929690,0.02656273,0.97343727,6362.604281,4069.531484
+2010,Durango,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,184114.87,167882.45,16232.42,249437.3,1.49,2920.41,728459770,0.088164633,0.911835367,3956.55044,2920.412344
+2010,Guanajuato,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,384300.85,279458.02,104842.83,1163650.29,4.16,2832.24,3295734610,0.272814463,0.727185537,8575.92329,2832.238034
+2010,Guerrero,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,478148.19,464957,13191.19,1410190.91,3.03,2779.6,3919765010,0.027588079,0.972411921,8197.803719,2779.598835
+2010,Hidalgo,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,245244.5,211927.65,33316.85,603333.36,2.85,3155.08,1903567160,0.135851569,0.864148431,7761.915802,3155.083551
+2010,Jalisco,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,544359.81,507346.22,37013.59,3019254.63,5.95,2818.69,8510343020,0.067994715,0.932005285,15633.67255,2818.690062
+2010,Estado de México,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,545412.39,528583.39,16829,1505440.65,2.85,3089.51,4651068490,0.030855551,0.969144449,8527.617955,3089.506378
+2010,Michoacán,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,470268.25,457955.06,12313.19,1506043.29,3.29,2812.93,4236387599,0.026183333,0.973816667,9008.449112,2812.925516
+2010,Morelos,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,25262.7,25262.7,0,78815.09,3.12,3834.05,302180670,0,1,11961.53499,3834.045866
+2010,Nayarit,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,42579.3,41211.1,1368.2,163908.29,3.98,2871.36,470640120,0.032132985,0.967867015,11053.26109,2871.362516
+2010,Nuevo León,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,28221,26328,1893,60735.4,2.31,3183.85,193372290,0.067077708,0.932922292,6852.070798,3183.848135
+2010,Oaxaca,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,595210.85,542593.34,52617.51,645531.27,1.19,3962.89,2558169580,0.088401463,0.911598537,4297.921619,3962.890256
+2010,Puebla,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,600302,561895,38407,1056481.18,1.88,3393.06,3584704210,0.063979464,0.936020536,5971.501361,3393.060168
+2010,Querétaro,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,118800,103710,15090,276828.61,2.67,2787.32,771610810,0.127020202,0.872979798,6495.040488,2787.323211
+2010,Quintana Roo,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,69260.55,66582.55,2678,55154.15,0.83,2972.64,163953360,0.03866559,0.96133441,2367.196911,2972.638686
+2010,San Luis Potosí,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,268851.01,161851.9,106999.11,165768.47,1.02,2948.11,488702930,0.39798664,0.60201336,1817.746305,2948.105451
+2010,Sinaloa,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,514583.11,506934.11,7649,5046232.82,9.95,2310.73,11660479500,0.01486446,0.98513554,22660.05097,2310.729591
+2010,Sonora,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,43148.5,43148.5,0,240953.5,5.58,2332.06,561917880,0,1,13022.8833,2332.059422
+2010,Tabasco,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,83711.75,66820.5,16891.25,104467.4,1.56,3496.63,365283370,0.201778723,0.798221277,4363.585399,3496.625454
+2010,Tamaulipas,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,98667.4,86586.35,12081.05,206275.05,2.38,2437.17,502728180,0.122442164,0.877557836,5095.180171,2437.173958
+2010,Tlaxcala,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,109039,108834,205,278159.97,2.56,2810.44,781751150,0.001880061,0.998119939,7169.463678,2810.437282
+2010,Veracruz,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,571943.93,503307.73,68636.2,968629.22,1.92,3372.49,3266694620,0.12000512,0.87999488,5711.564454,3372.492335
+2010,Yucatán,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,132637.88,131037.28,1600.6,108961.25,0.83,3410.68,371631980,0.012067443,0.987932557,2801.85404,3410.680219
+2010,Zacatecas,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,270228.7,179126.52,91102.18,246382.62,1.38,2873.2,707907010,0.33712992,0.66287008,2619.658867,2873.201892
+2011,Aguascalientes,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,32141,6670,25471,51146.5,7.67,4585.28,234520810,0.792476899,0.207523101,7296.624561,4585.275825
+2011,Baja California Sur,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,4264.5,3360.25,904.25,19546.15,5.82,3897.56,76182320,0.212041271,0.787958729,17864.30297,3897.561412
+2011,Campeche,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,145376.75,142811.75,2565,431466.46,3.02,3939.66,1699832420,0.017643812,0.982356188,11692.6016,3939.662935
+2011,Coahuila,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,18761,6108.75,12652.25,9065.68,1.48,3364.08,30497670,0.674391024,0.325608976,1625.588721,3364.079694
+2011,Colima,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,13825.25,10582.75,3242.5,39912.37,3.77,4256.29,169878810,0.234534638,0.765465362,12287.57599,4256.294728
+2011,Chiapas,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,619327,614570,4757,1345662.2,2.19,4114.31,5536474230,0.007680918,0.992319082,8939.500829,4114.312069
+2011,Chihuahua,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,46693.77,18825.36,27868.41,53005.68,2.82,4234.49,224451890,0.596833582,0.403166418,4806.891583,4234.487512
+2011,Ciudad de México,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,5199.2,4432.6,766.6,4880.79,1.1,5143.99,25106730,0.147445761,0.852554239,4828.960225,5143.988985
+2011,Durango,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,142122.93,88187.03,53935.9,177148.09,2.01,4149.84,735136060,0.379501745,0.620498255,5172.53662,4149.839041
+2011,Guanajuato,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,397339.55,207530.3,189809.25,1015660.45,4.89,4846.99,4922901040,0.47770037,0.52229963,12389.65776,4846.994918
+2011,Guerrero,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,471741,461918.5,9822.5,1303788.09,2.82,3606.18,4701694290,0.020821807,0.979178193,9966.685724,3606.179813
+2011,Hidalgo,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,242930.54,196417.57,46512.97,454938.24,2.32,4465.3,2031434560,0.191466129,0.808533871,8362.203287,4465.297443
+2011,Jalisco,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,549352.62,470632.93,78719.69,2285655.53,4.86,4540.86,10378850880,0.143295376,0.856704624,18892.87591,4540.863986
+2011,Estado de México,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,477303.3,313764,163539.3,633439.41,2.02,4222.27,2674551610,0.342631823,0.657368177,5603.463479,4222.269041
+2011,Michoacán,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,459186.5,424008.07,35178.43,1382698.37,3.26,4162.86,5755977390,0.076610332,0.923389668,12535.16249,4162.858303
+2011,Morelos,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,24500,24500,0,75879.81,3.1,3536.23,268328280,0,1,10952.17469,3536.227621
+2011,Nayarit,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,41405,40997.5,407.5,175853.81,4.29,3992.52,702099040,0.009841807,0.990158193,16956.86608,3992.515374
+2011,Nuevo León,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,12780.2,6797.2,5983,20148.21,2.96,3551.51,71556580,0.468146038,0.531853962,5599.018795,3551.510531
+2011,Oaxaca,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,601178.74,568951.12,32227.62,694553.65,1.22,4274.1,2968590030,0.053607385,0.946392615,4937.94912,4274.097516
+2011,Puebla,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,581579.6,459331,122248.6,597590.96,1.3,4368.06,2610310720,0.210200977,0.789799023,4488.312038,4368.055902
+2011,Querétaro,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,110650.5,44455.7,66194.8,157108.57,3.53,4593.6,721693900,0.598233176,0.401766824,6522.283225,4593.599827
+2011,Quintana Roo,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,67974,67624,350,65409.92,0.97,3394.16,222011920,0.005149028,0.994850972,3266.129991,3394.162843
+2011,San Luis Potosí,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,201127,96856.2,104270.8,112907.74,1.17,4142.79,467752540,0.518432632,0.481567368,2325.657619,4142.785428
+2011,Sinaloa,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,817212.99,419637.19,397575.8,2922940,6.97,3671.56,10731740520,0.486502056,0.513497944,13132.1218,3671.556898
+2011,Sonora,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,36846.5,18718.5,18128,83221.17,4.45,3274.09,272473560,0.491987027,0.508012973,7394.828817,3274.089514
+2011,Tabasco,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,88139.5,82053.25,6086.25,132707.84,1.62,3994.92,530157490,0.069052468,0.930947532,6014.981819,3994.922154
+2011,Tamaulipas,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,86942.97,55763.86,31179.11,118108.26,2.12,3596.57,424785130,0.358615653,0.641384347,4885.790421,3596.574279
+2011,Tlaxcala,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,109372.25,81463.51,27908.74,154943.48,1.9,4114.09,637451110,0.255172039,0.744827961,5828.270974,4114.087989
+2011,Veracruz,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,566509.49,534550.32,31959.17,1039846.3,1.95,3911.66,4067529520,0.056414183,0.943585817,7179.984787,3911.664176
+2011,Yucatán,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,128648.59,128516.59,132,136767.88,1.06,3356.02,458995780,0.001026051,0.998973949,3567.825967,3356.020288
+2011,Zacatecas,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,214227,81447.6,132779.4,177781.65,2.18,4180.98,743301050,0.619807027,0.380192973,3469.688928,4180.977339
+2012,Aguascalientes,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,38113,19535,18578,56213.49,2.88,4863.31,273383670,0.487445229,0.512554771,7172.976937,4863.310746
+2012,Baja California,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,294,13,281,6.11,0.47,4000,24440,0.955782313,0.044217687,83.1292517,4000
+2012,Baja California Sur,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,5474,5459,15,32056.44,5.87,4437.87,142262270,0.002740227,0.997259773,25988.72305,4437.868647
+2012,Campeche,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,142975,135807.16,7167.84,327834.49,2.41,3673.02,1204141030,0.05013352,0.94986648,8422.039028,3673.015094
+2012,Coahuila,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,22757.05,12794.05,9963,12973.13,1.01,3904.27,50650640,0.437798397,0.562201603,2225.712032,3904.272909
+2012,Colima,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,10107,10017,90,33705.47,3.36,4249.46,143230050,0.00890472,0.99109528,14171.37133,4249.460102
+2012,Chiapas,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,610792.7,610617.7,175,1240430.52,2.03,3984.09,4941981510,0.000286513,0.999713487,8091.094589,3984.085711
+2012,Chihuahua,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,75403.22,72928.72,2474.5,168456.32,2.31,4067.78,685243640,0.032816901,0.967183099,9087.72384,4067.782319
+2012,Ciudad de México,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,4003,4003,0,5520.99,1.38,5255.5,29015540,0,1,7248.448664,5255.495844
+2012,Durango,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,142125.92,132793.29,9332.63,211488.69,1.59,4259.75,900888860,0.065664518,0.934335482,6338.666867,4259.749588
+2012,Guanajuato,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,381571.2,331393.2,50178,1217706.12,3.67,4025.71,4902130240,0.131503635,0.868496365,12847.22285,4025.708797
+2012,Guerrero,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,467408,463574,3834,1296997.82,2.8,3800.57,4929325550,0.008202684,0.991797316,10546.08725,3800.565794
+2012,Hidalgo,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,259811.16,247410.81,12400.35,702957.71,2.84,4182.22,2939925980,0.047728319,0.952271681,11315.62624,4182.22311
+2012,Jalisco,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,546439.9,525768.43,20671.47,2891586.64,5.5,3795.37,10974641730,0.037829357,0.962170643,20083.89528,3795.370188
+2012,Estado de México,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,530499.82,504024.22,26475.6,1502568.73,2.98,4516.15,6785823600,0.049906897,0.950093103,12791.37776,4516.148556
+2012,Michoacán,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,479982,463002.5,16979.5,1796825.46,3.88,3894.04,6996919200,0.035375285,0.964624715,14577.46165,3894.045001
+2012,Morelos,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,24224.58,24224.58,0,76398.78,3.15,4000.94,305666680,0,1,12618.03837,4000.936664
+2012,Nayarit,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,42208.91,40938.91,1270,188234.29,4.6,4108.21,773306860,0.030088434,0.969911566,18320.93887,4108.214609
+2012,Nuevo León,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,33735.51,30552.01,3183.5,61415.27,2.01,3665.14,225095660,0.094366441,0.905633559,6672.365706,3665.141584
+2012,Oaxaca,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,600900.02,598181.52,2718.5,729351.18,1.22,4419.14,3223107430,0.004524047,0.995475953,5363.799838,4419.143368
+2012,Puebla,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,556085.6,547627.6,8458,969864.21,1.77,4255.68,4127435220,0.015209889,0.984790111,7422.301926,4255.683608
+2012,Querétaro,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,114349,107393,6956,271088.42,2.52,3798.79,1029808030,0.060831315,0.939168685,9005.833282,3798.790188
+2012,Quintana Roo,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,76691,58174.82,18516.18,53852.76,0.93,3459.1,186282080,0.241438761,0.758561239,2428.995319,3459.099961
+2012,San Luis Potosí,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,190046.35,100146.35,89900,105381.29,1.05,4426.73,466494640,0.473042497,0.526957503,2454.636145,4426.731159
+2012,Sinaloa,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,407923.9,386910.03,21013.87,3634869.38,9.39,4037.99,14677550260,0.051514192,0.948485808,35981.09907,4037.985613
+2012,Sonora,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,30046.7,30026.7,20,167125.2,5.57,3844.78,642560390,0.000665631,0.999334369,21385.38974,3844.784569
+2012,Tabasco,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,94480,92855,1625,181556.66,1.96,4229.4,767876650,0.017199407,0.982800593,8127.39892,4229.405024
+2012,Tamaulipas,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,105826.51,78225.22,27601.29,327199.87,4.18,3474.49,1136854110,0.260816406,0.739183594,10742.6212,3474.494382
+2012,Tlaxcala,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,112792.31,105645.31,7147,295850.28,2.8,3771.59,1115827030,0.063364249,0.936635751,9892.758026,3771.593625
+2012,Veracruz,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,573904.2,553276.13,20628.07,1275317.55,2.31,4096.48,5224318150,0.035943403,0.964056597,9103.118865,4096.484166
+2012,Yucatán,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,120168.71,108189.67,11979.04,102449.08,0.95,3967.22,406438510,0.099685184,0.900314816,3382.232446,3967.224596
+2012,Zacatecas,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,158839.82,116858.37,41981.45,242200.84,2.07,4552.06,1102511990,0.264300539,0.735699461,6941.030215,4552.056838
+2013,Aguascalientes,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,44040,40519,3521,78903.1,1.95,3117.66,245993320,0.079950045,0.920049955,5585.679382,3117.663565
+2013,Baja California,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,398,398,0,1472.35,3.7,3800.55,5595750,0,1,14059.67337,3800.556933
+2013,Baja California Sur,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,5462.5,3912.5,1550,21287.64,5.44,3451.71,73478810,0.28375286,0.71624714,13451.4984,3451.712355
+2013,Campeche,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,156512.75,155909.75,603,413069.64,2.65,2753.02,1137187770,0.003852721,0.996147279,7265.783586,2753.01707
+2013,Coahuila,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,32285.51,32284.51,1,39430.91,1.22,3805.43,150051480,3.10E-05,0.999969026,4647.64162,3805.427772
+2013,Colima,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,11193.92,11139.92,54,38155.67,3.43,3704.85,141361000,0.004824047,0.995175953,12628.37326,3704.849109
+2013,Chiapas,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,606489,604566.75,1922.25,1315948.36,2.18,3193.6,4202614690,0.003169472,0.996830528,6929.416181,3193.601526
+2013,Chihuahua,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,67448.5,66961.5,487,114159.19,1.7,3131.93,357538160,0.007220324,0.992779676,5300.906025,3131.926216
+2013,Ciudad de México,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,3957,3957,0,5250.6,1.33,4861.51,25525870,0,1,6450.813748,4861.514874
+2013,Durango,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,154505.25,150777.4,3727.85,297383.44,1.97,3172.52,943456170,0.024127659,0.975872341,6106.304931,3172.524233
+2013,Guanajuato,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,397711,388409,9302,1526682.36,3.93,3250.86,4963031620,0.023388843,0.976611157,12478.99007,3250.860657
+2013,Guerrero,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,470830.3,402160.3,68670,985228.26,2.45,3675.06,3620775900,0.145848727,0.854151273,7690.193048,3675.062975
+2013,Hidalgo,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,252353.03,246296.48,6056.55,643352.83,2.61,3910.85,2516058360,0.024000306,0.975999694,9970.390924,3910.853023
+2013,Jalisco,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,494672.4,491076.9,3595.5,2753541.17,5.61,3077.26,8473374109,0.007268447,0.992731553,17129.26395,3077.264361
+2013,Estado de México,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,518212.93,513037.93,5175,1935675.32,3.77,3543.44,6858945330,0.009986243,0.990013757,13235.76648,3543.43792
+2013,Michoacán,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,471632.1,436771.39,34860.71,1742811.81,3.99,3207.17,5589489830,0.073915049,0.926084951,11851.37702,3207.167749
+2013,Morelos,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,23312.6,23172.6,140,67462.95,2.91,3148.31,212394440,0.006005336,0.993994664,9110.714378,3148.31237
+2013,Nayarit,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,41969.3,41969.3,0,178411.51,4.25,3084.87,550376710,0,1,13113.79294,3084.872215
+2013,Nuevo León,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,49378.2,48741.2,637,99732.93,2.05,3436.43,342725320,0.01290043,0.98709957,6940.822468,3436.430876
+2013,Oaxaca,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,600747.23,525778.51,74968.72,628530.01,1.2,4037.11,2537446700,0.124792452,0.875207548,4223.817561,4037.113041
+2013,Puebla,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,537792.76,531891.27,5901.49,921158.25,1.73,3750.73,3455014670,0.010973539,0.989026461,6424.435074,3750.728683
+2013,Querétaro,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,109390.6,109033.7,356.9,300800.13,2.76,2829.51,851116930,0.00326262,0.99673738,7780.530777,2829.509848
+2013,Quintana Roo,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,78946,77876,1070,67854.53,0.87,4062.7,275672540,0.013553568,0.986446432,3491.9127,4062.69913
+2013,San Luis Potosí,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,231929.75,166254.69,65675.06,154149.89,0.93,4290.4,661364040,0.283167899,0.716832101,2851.570529,4290.395796
+2013,Sinaloa,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,496867.59,425729.45,71138.14,3617261.06,8.5,3314.77,11990387050,0.143173235,0.856826765,24131.95646,3314.769615
+2013,Sonora,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,29835.81,20495.81,9340,113533.73,5.54,3492.61,396528930,0.313046638,0.686953362,13290.36919,3492.609025
+2013,Tabasco,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,89412,86104,3308,155183.09,1.8,4657.83,722816960,0.036997271,0.963002729,8084.115779,4657.833273
+2013,Tamaulipas,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,91565.25,85690.09,5875.16,227706.23,2.66,3427.99,780575180,0.064163643,0.935836357,8524.797126,3427.992199
+2013,Tlaxcala,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,99692,99692,0,282237.6,2.83,3025.93,854030430,0,1,8566.689704,3025.927198
+2013,Veracruz,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,574584.16,568248.66,6335.5,1192168.58,2.1,3880.82,4626590460,0.011026235,0.988973765,8052.067534,3880.818986
+2013,Yucatán,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,114970.1,112400.1,2570,92440.21,0.82,3679.27,340112730,0.022353638,0.977646362,2958.27115,3679.272581
+2013,Zacatecas,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,187900.5,184093.17,3807.33,285192.71,1.55,3791.56,1081325370,0.020262479,0.979737521,5754.776438,3791.560345
+2014,Aguascalientes,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,39909,34212,5697,63825.41,1.87,3114.03,198754200,0.142749756,0.857250244,4980.184921,3114.02935
+2014,Baja California,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,592,144,448,1085.5,7.54,3800,4124899,0.756756757,0.243243243,6967.734797,3799.999079
+2014,Baja California Sur,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,6146.5,5534.5,612,31702.1,5.73,3344.99,106043240,0.09956886,0.90043114,17252.62182,3344.991026
+2014,Campeche,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,159779.75,156819.4,2960.35,406575.45,2.59,2862.36,1163763560,0.018527692,0.981472308,7283.54851,2862.355708
+2014,Coahuila,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,32060.24,32045.74,14.5,42658.13,1.33,3332.32,142150680,0.000452274,0.999547726,4433.862005,3332.323287
+2014,Colima,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,12008,11968,40,47610.79,3.98,3670.5,174755640,0.003331113,0.996668887,14553.26782,3670.504942
+2014,Chiapas,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,599699.1,578760.7,20938.4,1059332.12,1.83,3179.08,3367698260,0.034914843,0.965085157,5615.64668,3179.076889
+2014,Chihuahua,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,89463.85,89439.85,24,141338.74,1.58,2815.31,397912220,0.000268265,0.999731735,4447.743083,2815.308952
+2014,Ciudad de México,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,3965,3965,0,5399.66,1.36,4948.29,26719070,0,1,6738.7314,4948.287485
+2014,Durango,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,185999.25,182387.03,3612.22,413212.45,2.27,2717.03,1122711510,0.019420616,0.980579384,6036.107726,2717.032147
+2014,Guanajuato,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,374576.97,369826.86,4750.11,1405156.84,3.8,2820.62,3963420210,0.012681265,0.987318735,10581.05684,2820.624785
+2014,Guerrero,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,473043.24,462468.24,10575,1326071.95,2.87,3431.05,4549824620,0.02235525,0.97764475,9618.200273,3431.054114
+2014,Hidalgo,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,253796.25,248851.15,4945.1,647346.38,2.6,3306.55,2140483440,0.019484527,0.980515473,8433.865512,3306.550413
+2014,Jalisco,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,454366.34,452097.34,2269,2895912.03,6.41,2787.14,8071309120,0.004993768,0.995006232,17763.87996,2787.138917
+2014,Estado de México,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,515953.85,491766.59,24187.26,1769236.73,3.6,3138.03,5551914130,0.046878728,0.953121272,10760.4859,3138.027849
+2014,Michoacán,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,475033.06,450840.14,24192.92,1846794.41,4.1,2876.92,5313073680,0.050928919,0.949071081,11184.63982,2876.9167
+2014,Morelos,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,21381.47,21381.47,0,66243.76,3.1,3148.26,208552420,0,1,9753.885958,3148.257587
+2014,Nayarit,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,37797.69,37510.44,287.25,157872.53,4.21,2855.07,450736670,0.007599671,0.992400329,11924.97928,2855.067123
+2014,Nuevo León,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,59927.5,59562.5,365,82839.12,1.39,3479.23,288216750,0.006090693,0.993909307,4809.423887,3479.234811
+2014,Oaxaca,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,576988.1,542146.6,34841.5,646851.18,1.19,3724.01,2408881630,0.060385128,0.939614872,4174.924284,3724.012114
+2014,Puebla,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,539502.93,513183.43,26319.5,938232.14,1.83,3533.35,3315105610,0.048784721,0.951215279,6144.740697,3533.353281
+2014,Querétaro,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,109696,104578,5118,283202.83,2.71,2703.86,765740830,0.046656214,0.953343786,6980.572035,2703.860092
+2014,Quintana Roo,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,76996,53291,23705,47309.46,0.89,4148.44,196260640,0.307873136,0.692126864,2548.971895,4148.443884
+2014,San Luis Potosí,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,235668.59,190643.59,45025,188433.11,0.99,3660.43,689746160,0.191052189,0.808947811,2926.763214,3660.429741
+2014,Sinaloa,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,406587.72,380156.45,26431.27,3676226.41,9.67,3318.63,12200041460,0.065007546,0.934992454,30005.92704,3318.631689
+2014,Sonora,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,22373.95,22244.95,129,135507.1,6.09,2854.32,386780870,0.005765634,0.994234366,17287.1071,2854.321803
+2014,Tabasco,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,82385.5,71266.5,11119,129607.77,1.82,4108.48,532491120,0.13496307,0.86503693,6463.408245,4108.481459
+2014,Tamaulipas,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,90095.85,69344.6,20751.25,253421.83,3.65,2869.87,727287600,0.230324149,0.769675851,8072.376253,2869.869577
+2014,Tlaxcala,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,114236,113186,1050,360973.5,3.19,2902.79,1047830560,0.009191498,0.990808502,9172.507441,2902.790814
+2014,Veracruz,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,570318.5,569421.5,897,1264855.36,2.22,3717.05,4701528950,0.001572805,0.998427195,8243.690061,3717.048683
+2014,Yucatán,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,109116.1,100117.47,8998.63,90324.53,0.9,3719.44,335956950,0.082468398,0.917531602,3078.894407,3719.443101
+2014,Zacatecas,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,205862,172195,33667,285724.36,1.66,2992.15,854931040,0.163541596,0.836458404,4152.932741,2992.153137
+2015,Aguascalientes,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,36889,30552,6337,57903.42,1.9,3335.7,193148390,0.171785627,0.828214373,5235.93456,3335.699169
+2015,Baja California,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,368,234,134,1779.46,7.6,3907.74,6953670,0.364130435,0.635869565,18895.84239,3907.741674
+2015,Baja California Sur,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,6889,6889,0,36876.97,5.35,3316.72,122310540,0,1,17754.46944,3316.718809
+2015,Campeche,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,152938.5,151921.5,1017,364384.1,2.4,3179.74,1158648240,0.006649732,0.993350268,7575.909532,3179.744231
+2015,Coahuila,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,30613.5,22571,8042.5,34008.48,1.51,3280.92,111579200,0.262710896,0.737289104,3644.771098,3280.922876
+2015,Colima,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,11031,9647.4,1383.6,39113.21,4.05,3545.14,138661890,0.125428338,0.874571662,12570.20125,3545.142166
+2015,Chiapas,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,610205.81,572769.31,37436.5,943613.89,1.65,3591.79,3389261900,0.061350612,0.938649388,5554.293067,3591.788904
+2015,Chihuahua,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,82966.4,78875.9,4090.5,127744.08,1.62,3306.96,422445050,0.049303091,0.950696909,5091.76064,3306.963814
+2015,Ciudad de México,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,3753.4,3733.15,20.25,4836.99,1.3,5047.32,24413820,0.005395108,0.994604892,6504.454628,5047.316616
+2015,Durango,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,179382.4,165284.9,14097.5,274708.16,1.66,3290.38,903894250,0.078589092,0.921410908,5038.92383,3290.380053
+2015,Guanajuato,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,352148.25,343845.25,8303,1316678.25,3.83,3415.5,4497115550,0.023578138,0.976421862,12770.51796,3415.50075
+2015,Guerrero,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,476019.9,399023.17,76996.73,969058.98,2.43,4051.89,3926522840,0.161751074,0.838248926,8248.652714,4051.892528
+2015,Hidalgo,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,246678.3,234539.2,12139.1,712083.96,3.04,3516.02,2503702110,0.049210247,0.950789753,10149.66501,3516.020934
+2015,Jalisco,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,419439.98,409318.48,10121.5,2634658.34,6.44,3257.82,8583235480,0.024130985,0.975869015,20463.56067,3257.817285
+2015,Estado de México,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,515798.86,508554.16,7244.7,1953662.6,3.84,3432.77,6706468820,0.014045591,0.985954409,13002.1009,3432.767163
+2015,Michoacán,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,455122,402334.34,52787.66,1662383.53,4.13,3359.98,5585567880,0.115985736,0.884014264,12272.68267,3359.975468
+2015,Morelos,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,18280.5,18228.5,52,41312.7,2.27,3483.11,143896800,0.002844561,0.997155439,7871.600886,3483.112941
+2015,Nayarit,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,32029.5,30270.54,1758.96,92595.49,3.06,3164.19,292989470,0.054916874,0.945083126,9147.488097,3164.187262
+2015,Nuevo León,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,54082.94,54015.94,67,82983.53,1.54,3576.23,296768110,0.001238838,0.998761162,5487.277689,3576.229042
+2015,Oaxaca,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,568134.57,526179.57,41955,646016.12,1.23,3722.33,2404683820,0.073846941,0.926153059,4232.595492,3722.327889
+2015,Puebla,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,548553.21,515581.81,32971.4,989643.4,1.92,3788.18,3748946640,0.060106111,0.939893889,6834.244284,3788.179298
+2015,Querétaro,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,110299.8,108387.8,1912,308748.81,2.85,3158.76,975264620,0.017334574,0.982665426,8841.943684,3158.76398
+2015,Quintana Roo,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,78734.9,45294.9,33440,30500.58,0.67,4097.32,124970740,0.424716358,0.575283642,1587.234378,4097.323395
+2015,San Luis Potosí,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,232943.06,170191.06,62752,168561.8,0.99,3838.58,647038460,0.269387721,0.730612279,2777.667899,3838.583
+2015,Sinaloa,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,523955.29,520541.12,3414.17,5190692.87,9.97,3328.71,17278316000,0.006516148,0.993483852,32976.69921,3328.710913
+2015,Sonora,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,19992.25,19992.25,0,120652.07,6.03,3361.34,405552360,0,1,20285.47862,3361.337771
+2015,Tabasco,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,84255.47,75959.47,8296,139363.17,1.83,3801.33,529764939,0.09846245,0.90153755,6287.602918,3801.326699
+2015,Tamaulipas,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,109761.97,91028.47,18733.5,300522.82,3.3,3024.64,908973770,0.170673868,0.829326132,8281.317928,3024.641423
+2015,Tlaxcala,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,116549.1,116549.1,0,325739.65,2.79,3119.37,1016103330,0,1,8718.242612,3119.372573
+2015,Veracruz,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,580999.9,563914.9,17085,1212089.33,2.15,3846.31,4662073560,0.029406201,0.970593799,8024.224376,3846.311856
+2015,Yucatán,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,88444.65,76961.51,11483.14,80820.56,1.05,3935.56,318074390,0.129834196,0.870165804,3596.310122,3935.562807
+2015,Zacatecas,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,202705.5,194972.01,7733.49,345442.62,1.77,3444.96,1190036430,0.038151358,0.961848642,5870.765371,3444.961221
+2016,Aguascalientes,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,37100,34693,2407,61117.6,1.76,3716.01,227113830,0.064878706,0.935121294,6121.666577,3716.013554
+2016,Baja California,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,480,305,175,2567.93,8.42,3754.95,9642440,0.364583333,0.635416667,20088.41667,3754.946591
+2016,Baja California Sur,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,7517.5,7517.5,0,49456.72,6.58,3639.24,179984830,0,1,23942.1124,3639.239117
+2016,Campeche,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,162315,160579,1736,405734.06,2.53,3495.1,1418080840,0.010695253,0.989304747,8736.597603,3495.099327
+2016,Coahuila,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,29279,29274.5,4.5,35401.54,1.21,3352.6,118687110,0.000153694,0.999846306,4053.659961,3352.597373
+2016,Colima,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,11211.5,10496.5,715,41672.42,3.97,3272.07,136355280,0.063773804,0.936226196,12162.09071,3272.074912
+2016,Chiapas,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,594061.92,594061.92,0,1155513.73,1.95,3607.19,4168161610,0,1,7016.375684,3607.193495
+2016,Chihuahua,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,79529.59,79529.59,0,127583.95,1.6,3387.04,432132550,0,1,5433.607164,3387.044765
+2016,Ciudad de México,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,3628.9,3628.9,0,5059.65,1.39,4802.8,24300480,0,1,6696.376312,4802.798613
+2016,Durango,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,153465.41,150468.45,2996.96,325001.28,2.16,3611.35,1173693900,0.01952857,0.98047143,7647.937734,3611.351623
+2016,Guanajuato,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,441066.11,435718.11,5348,1843290.6,4.23,3552.51,6548311730,0.012125166,0.987874834,14846.5538,3552.511867
+2016,Guerrero,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,480486,477884.36,2601.64,1329608.13,2.78,3886.12,5167012680,0.005414601,0.994585399,10753.72161,3886.116942
+2016,Hidalgo,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,253092.65,248913.75,4178.9,730103.86,2.93,3740.43,2730905920,0.016511345,0.983488655,10790.14314,3740.434847
+2016,Jalisco,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,460440.19,460440.19,0,2937091.89,6.38,3443.45,10113726400,0,1,21965.34234,3443.449091
+2016,Estado de México,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,507813.59,506293.59,1520,2233215.08,4.41,3575.62,7985119500,0.002993224,0.997006776,15724.50926,3575.615968
+2016,Michoacán,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,471892,465179,6713,1815124.2,3.9,3473.6,6305010840,0.014225713,0.985774287,13361.13102,3473.597476
+2016,Morelos,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,25991.76,25991.76,0,74666.6,2.87,3496.15,261045580,0,1,10043.3976,3496.149282
+2016,Nayarit,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,31351.59,31142.09,209.5,118886.84,3.82,3408.53,405228970,0.006682277,0.993317723,12925.30841,3408.526713
+2016,Nuevo León,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,46013.38,23837.38,22176,37701.64,1.58,3500.22,131963910,0.481946773,0.518053227,2867.946454,3500.216701
+2016,Oaxaca,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,552438.33,551428.33,1010,722496.8,1.31,3828.48,2766068110,0.001828258,0.998171742,5007.017,3828.484929
+2016,Puebla,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,550563.68,541738.99,8824.69,1045959.25,1.93,3644.4,3811896540,0.016028464,0.983971536,6923.625147,3644.402533
+2016,Querétaro,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,110992,110992,0,316940.3,2.86,3366.12,1066859679,0,1,9612.041219,3366.121882
+2016,Quintana Roo,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,75388,67078.5,8309.5,37986.69,0.57,3570.65,135637120,0.110223112,0.889776888,1799.187139,3570.648561
+2016,San Luis Potosí,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,185734.3,133642.8,52091.5,153876.88,1.15,3586.86,551935480,0.280462467,0.719537533,2971.640026,3586.864251
+2016,Sinaloa,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,592985.9,579767.4,13218.5,6136649.07,10.58,3473.54,21315878720,0.022291424,0.977708576,35946.6873,3473.537182
+2016,Sonora,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,26457.45,24297.45,2160,170496.38,7.02,3268.98,557348830,0.081640521,0.918359479,21065.85593,3268.9775
+2016,Tabasco,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,76761,76519,242,142355,1.86,3836.68,546170400,0.003152643,0.996847357,7115.206941,3836.678726
+2016,Tamaulipas,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,130161.06,120305.14,9855.92,408794.27,3.4,3230.65,1320669620,0.075720957,0.924279043,10146.42644,3230.646114
+2016,Tlaxcala,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,135943.39,135943.39,0,416652.38,3.06,3433.84,1430716920,0,1,10524.35812,3433.838347
+2016,Veracruz,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,585287.55,580138.55,5149,1273783.5,2.2,3857.53,4913658280,0.008797385,0.991202615,8395.289256,3857.530169
+2016,Yucatán,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,87626.31,85925.79,1700.52,74601.37,0.87,3996.23,298124590,0.0194065,0.9805935,3402.226911,3996.234788
+2016,Zacatecas,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,181638.5,175176.5,6462,331207.32,1.89,3324.78,1101190140,0.035576158,0.964423842,6062.537072,3324.775974
+2017,Aguascalientes,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,39666,39666,0,76700.49,1.93,3644.56,279539210,0,1,7047.325417,3644.555726
+2017,Baja California,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,1589,1479,110,13640.97,9.22,3686.74,50290650,0.069225928,0.930774072,31649.24481,3686.735621
+2017,Baja California Sur,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,8273.2,8269.2,4,62859.21,7.6,4047.48,254421180,0.000483489,0.999516511,30752.45129,4047.476575
+2017,Campeche,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,164167,163777,390,439378.12,2.68,3336,1465764600,0.00237563,0.99762437,8928.497201,3335.99816
+2017,Coahuila,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,30410,19372,11038,24636.44,1.27,3350.45,82543080,0.362972706,0.637027294,2714.34002,3350.446737
+2017,Colima,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,11606.5,11606.5,0,49005.19,4.22,3457.93,169456280,0,1,14600.1189,3457.925171
+2017,Chiapas,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,598615.75,597428.75,1187,1150925.08,1.93,3597.72,4140710490,0.001982908,0.998017092,6917.142574,3597.723746
+2017,Chihuahua,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,67587,67012,575,106123.97,1.58,3595.07,381523520,0.008507553,0.991492447,5644.924616,3595.07395
+2017,Ciudad de México,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,3509.07,3509.07,0,4533.44,1.29,4882.05,22132480,0,1,6307.221002,4882.049834
+2017,Durango,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,145767.13,141647.13,4120,334435.43,2.36,3718,1243432140,0.02826426,0.97173574,8530.264265,3718.003622
+2017,Guanajuato,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,385011,383544,1467,1605592.19,4.19,3513.84,5641798140,0.003810281,0.996189719,14653.60247,3513.842541
+2017,Guerrero,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,481401.97,468907.74,12494.23,1351014.48,2.88,3926.28,5304460550,0.025953841,0.974046159,11018.77616,3926.279569
+2017,Hidalgo,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,245460.55,236547.54,8913.01,730598.61,3.09,3529.47,2578625030,0.036311375,0.963688625,10505.25239,3529.468842
+2017,Jalisco,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,469248.05,469248.05,0,3196235.09,6.81,3694.47,11808395780,0,1,25164.50687,3694.470353
+2017,Estado de México,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,497929.27,495539.27,2390,2149317.57,4.34,3691.49,7934182740,0.004799879,0.995200121,15934.35698,3691.489267
+2017,Michoacán,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,455731.13,435883.13,19848,1820641.13,4.18,3505.19,6381690700,0.043551995,0.956448005,14003.19241,3505.188691
+2017,Morelos,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,20475.8,20445.8,30,71038.24,3.47,3430.68,243709510,0.001465144,0.998534856,11902.31932,3430.680574
+2017,Nayarit,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,32088.5,32088.5,0,135737.48,4.23,3518.7,477619180,0,1,14884.43461,3518.697857
+2017,Nuevo León,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,60927.87,55588.87,5339,58228.81,1.05,3611.89,210316250,0.087628207,0.912371793,3451.889094,3611.893322
+2017,Oaxaca,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,518332.9,512764.4,5568.5,700625.38,1.37,3816.78,2674132210,0.010743096,0.989256904,5159.101824,3816.778961
+2017,Puebla,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,515761.02,505463.02,10298,1007233.45,1.99,3724.67,3751613500,0.019966612,0.980033388,7273.937647,3724.671277
+2017,Querétaro,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,103682.24,103592.24,90,280631.78,2.71,3215.53,902379980,0.000868037,0.999131963,8703.322575,3215.530258
+2017,Quintana Roo,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,70245,70095,150,78119.05,1.11,4312.78,336909950,0.002135383,0.997864617,4796.212542,4312.775821
+2017,San Luis Potosí,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,230647.3,159413.3,71234,158039.25,0.99,3841.93,607175170,0.308843849,0.691156151,2632.48332,3841.92642
+2017,Sinaloa,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,566372.7,566233.9,138.8,6084052.44,10.74,3549.97,21598214260,0.000245068,0.999754932,38134.27847,3549.971745
+2017,Sonora,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,38755,38698.5,56.5,281451.16,7.27,3822.31,1075792490,0.001457876,0.998542124,27758.80506,3822.306115
+2017,Tabasco,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,72532,68034,4498,124018.15,1.82,3891.56,482623650,0.062014008,0.937985992,6653.941019,3891.556599
+2017,Tamaulipas,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,108075.35,96636.49,11438.86,365381.47,3.78,3212.33,1173727540,0.105841526,0.894158474,10860.27054,3212.334605
+2017,Tlaxcala,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,128974,128974,0,393465.35,3.05,3294.43,1296245220,0,1,10050.43823,3294.432966
+2017,Veracruz,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,578476.75,547727.81,30748.94,1268916.43,2.32,3910.47,4962061310,0.053155014,0.946844986,8577.805953,3910.471322
+2017,Yucatán,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,90363.7,89657.1,706.6,95449.97,1.06,4072.21,388692720,0.007819512,0.992180488,4301.425462,4072.214166
+2017,Zacatecas,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,193958,188285.25,5672.75,329609.34,1.75,3788.64,1248771550,0.029247311,0.970752689,6438.360624,3788.641275
+2018,Aguascalientes,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,39425,39425,0,73630.94,1.87,3808.92,280454150,0,1,7113.611921,3808.917148
+2018,Baja California,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,561.5,561.5,0,5806.96,10.34,4150.14,24099670,0,1,42920.16028,4150.135355
+2018,Baja California Sur,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,5271,5271,0,46686.13,8.86,3888.83,181554560,0,1,34444.04477,3888.832936
+2018,Campeche,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,164102,155365.5,8736.5,418138.28,2.69,3793.83,1586345120,0.05323823,0.94676177,9666.823805,3793.82897
+2018,Coahuila,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,30355.43,30315.43,40,30550.21,1.01,3374.23,103083500,0.001317721,0.998682279,3395.883372,3374.232125
+2018,Colima,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,13556.25,13556.25,0,59923.98,4.42,3844.45,230375040,0,1,16994.00941,3844.454924
+2018,Chiapas,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,574054.35,559510.35,14544,1013932.97,1.81,3940.45,3995351180,0.02533558,0.97466442,6959.883119,3940.449022
+2018,Chihuahua,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,54335.56,54255.26,80.3,92140.8,1.7,3697.11,340654450,0.001477854,0.998522146,6269.456871,3697.107579
+2018,Ciudad de México,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,3575,3575,0,4834.45,1.35,4887.45,23628150,0,1,6609.272727,4887.453588
+2018,Durango,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,137325.37,127126.42,10198.95,287805.27,2.26,3853.33,1109009410,0.074268506,0.925731494,8075.779515,3853.332533
+2018,Guanajuato,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,405671.38,398700.92,6970.46,1669285.12,4.19,3937.51,6572822940,0.017182528,0.982817472,16202.33338,3937.507656
+2018,Guerrero,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,479766.45,471569.1,8197.35,1265381.68,2.68,4179.85,5289109720,0.017086126,0.982913874,11024.34262,4179.853244
+2018,Hidalgo,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,230105.09,221728.23,8376.86,711589.95,3.21,3886.92,2765894410,0.036404497,0.963595503,12020.13571,3886.921689
+2018,Jalisco,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,456113.76,456113.76,0,3020504.6,6.62,3928.96,11867429870,0,1,26018.57455,3928.956066
+2018,Estado de México,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,477493.15,469102.25,8390.9,1858986.49,3.96,3834.16,7127655220,0.017572818,0.982427182,14927.24078,3834.161926
+2018,Michoacán,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,442185.54,433105.64,9079.9,1885439.85,4.35,3871.76,7299965880,0.02053414,0.97946586,16508.82994,3871.7575
+2018,Morelos,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,24863.3,24863.3,0,96450.16,3.88,3745.28,361232480,0,1,14528.74236,3745.276109
+2018,Nayarit,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,27298.5,25496.75,1801.75,105784.87,4.15,3795.06,401459500,0.066001795,0.933998205,14706.28423,3795.055947
+2018,Nuevo León,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,58825.2,57931.2,894,46644.76,0.81,3957.55,184598940,0.015197568,0.984802432,3138.092858,3957.549358
+2018,Oaxaca,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,513499.09,499266.09,14233,704260.66,1.41,3899.94,2746576150,0.027717673,0.972282327,5348.745896,3899.942601
+2018,Puebla,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,505654.8,502776.8,2878,978291.88,1.95,3873.96,3789865210,0.00569163,0.99430837,7494.96536,3873.961634
+2018,Querétaro,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,100482.5,97238.5,3244,256752.06,2.64,3780.47,970644410,0.032284229,0.967715771,9659.835394,3780.473699
+2018,Quintana Roo,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,67128.1,67128.1,0,70268.59,1.05,4269.5,300011640,0,1,4469.24075,4269.498506
+2018,San Luis Potosí,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,204344.9,112501.71,91843.19,132871.83,1.18,3912.75,519893870,0.449451834,0.550548166,2544.197922,3912.747119
+2018,Sinaloa,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,521399.85,520740.85,659,5783430.88,11.11,3856.58,22304264420,0.001263905,0.998736095,42777.65791,3856.580096
+2018,Sonora,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,50497.45,50497.45,0,546752.33,10.83,3424.11,1872141150,0,1,37073.97403,3424.111883
+2018,Tabasco,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,81703,78666.5,3036.5,150020.32,1.91,3986.61,598072720,0.037165098,0.962834902,7320.082739,3986.611414
+2018,Tamaulipas,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,79702.72,59643.34,20059.38,208206.5,3.49,3671.84,764501010,0.251677484,0.748322516,9591.906148,3671.840264
+2018,Tlaxcala,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,135212,134782,430,362022.93,2.69,3493.16,1264604150,0.003180191,0.996819809,9352.750865,3493.160364
+2018,Veracruz,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,570418,549184.75,21233.25,1234572.12,2.25,4050.93,5001170190,0.037224018,0.962775982,8767.55325,4050.934011
+2018,Yucatán,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,89581.72,89040.82,540.9,105955.8,1.19,4183.77,443294910,0.006038062,0.993961938,4948.497417,4183.772007
+2018,Zacatecas,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,181974,179725,2249,337706.15,1.88,4004.41,1352314080,0.012358908,0.987641092,7431.358766,4004.41058
+2019,Aguascalientes,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,32041,20534,11507,63713.52,3.1,4333.87,276126170,0.35913361,0.64086639,8617.901127,4333.870896
+2019,Baja California,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,709.91,709.91,0,8598.39,12.11,4286.83,36859800,0,1,51921.7929,4286.825789
+2019,Baja California Sur,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,6800.75,6800.75,0,61843.93,9.09,4048.28,250361650,0,1,36813.82936,4048.281699
+2019,Campeche,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,156254.5,153103,3151.5,405328.31,2.65,3946.13,1599477080,0.020169019,0.979830981,10236.3585,3946.127227
+2019,Coahuila,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,19103,14242,4861,17545.07,1.23,3659.02,64197760,0.25446265,0.74553735,3360.611422,3659.019884
+2019,Colima,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,12593.27,12593.27,0,51075.24,4.06,3788.31,193488640,0,1,15364.44784,3788.306036
+2019,Chiapas,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,596903.4,579893.38,17010.02,1111102.76,1.92,3811.58,4235058380,0.028497107,0.971502893,7095.048177,3811.58119
+2019,Chihuahua,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,61375.42,61325.42,50,152798.34,2.49,3911.03,597598860,0.000814658,0.999185342,9736.778339,3911.029793
+2019,Ciudad de México,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,3484.13,3404.13,80,3990.42,1.17,5204.72,20769010,0.022961256,0.977038744,5961.031879,5204.717799
+2019,Durango,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,105596.71,102912.71,2684,257649.12,2.5,4564.61,1176067070,0.025417459,0.974582541,11137.34576,4564.607362
+2019,Guanajuato,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,392133.48,372627.48,19506,1671611.15,4.49,3680.45,6152286260,0.049743266,0.950256734,15689.26545,3680.452993
+2019,Guerrero,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,489514,451479.71,38034.29,1286314.01,2.85,4330.45,5570319150,0.077698064,0.922301936,11379.28466,4330.450502
+2019,Hidalgo,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,231443.88,193921.72,37522.16,601252.36,3.1,4226.54,2541215080,0.162122066,0.837877934,10979.83269,4226.536558
+2019,Jalisco,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,450988.65,450988.65,0,2912575.59,6.46,4349.69,12668803240,0,1,28091.17977,4349.690797
+2019,Estado de México,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,456782.8,451364.43,5418.37,1823741.98,4.04,3663.6,6681464630,0.011862027,0.988137973,14627.22465,3663.601926
+2019,Michoacán,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,422564.91,398351.91,24213,1843233.91,4.63,3971.64,7320661270,0.057300073,0.942699927,17324.34733,3971.639861
+2019,Morelos,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,23902.3,23902.3,0,101704.42,4.26,3686.9,374974300,0,1,15687.79155,3686.902693
+2019,Nayarit,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,24375,24351,24,102157.46,4.2,4784.41,488762900,0.000984615,0.999015385,20051.81128,4784.407326
+2019,Nuevo León,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,61813.84,61673.84,140,59461.52,0.96,4750.38,282464900,0.002264865,0.997735135,4569.606095,4750.381423
+2019,Oaxaca,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,497732.21,463265.71,34466.5,633798.37,1.37,4122.56,2612869270,0.069247076,0.930752924,5249.548286,4122.555995
+2019,Puebla,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,523536.49,508393.82,15142.67,1005356.43,1.98,4088.2,4110102570,0.02892381,0.97107619,7850.651575,4088.204389
+2019,Querétaro,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,89997.76,67329.92,22667.84,221990.07,3.3,3807.38,845200840,0.251871158,0.748128842,9391.354185,3807.381294
+2019,Quintana Roo,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,54206.12,34074.46,20131.66,22084.15,0.65,4110.61,90779430,0.371390906,0.628609094,1674.708133,4110.614626
+2019,San Luis Potosí,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,120073.1,50355.56,69717.54,86912.42,1.73,4252.51,369595820,0.580625802,0.419374198,3078.090097,4252.508675
+2019,Sinaloa,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,551132.09,550287.68,844.41,6377593.86,11.59,3650.97,23284394480,0.001532137,0.998467863,42248.30109,3650.96853
+2019,Sonora,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,63400.66,62007.86,1392.8,692412.19,11.17,3613.23,2501842550,0.021968226,0.978031774,39460.82817,3613.227188
+2019,Tabasco,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,82265,77179.5,5085.5,146997.43,1.9,3998.79,587812320,0.061818513,0.938181487,7145.351243,3998.793176
+2019,Tamaulipas,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,76924.48,62681.98,14242.5,267086.43,4.26,3554.55,949372450,0.185149123,0.814850877,12341.61674,3554.551424
+2019,Tlaxcala,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,104782.27,104566.27,216,309754.25,2.96,3170.45,982059360,0.002061417,0.997938583,9372.381034,3170.446765
+2019,Veracruz,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,574332.8,510627.49,63705.31,1113138.53,2.18,4234.28,4713344010,0.11092055,0.88907945,8206.642577,4234.283409
+2019,Yucatán,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,105716.06,103965.07,1750.99,137503.88,1.32,4562.62,627378140,0.016563141,0.983436859,5934.558477,4562.62136
+2019,Zacatecas,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,136141,88337.4,47803.6,267096.17,3.02,4122.96,1101227850,0.351133017,0.648866983,8088.87734,4122.963837
+2020,Aguascalientes,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,39953,39953,0,74004.13,1.85,3641.69,269500270,0,1,6745.432633,3641.692295
+2020,Baja California,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,1488.75,1488.75,0,16767.8,11.26,4492.17,75323850,0,1,50595.36524,4492.172497
+2020,Baja California Sur,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,4884,4813,71,41055.88,8.53,3968.64,162936030,0.014537265,0.985462735,33361.1855,3968.640546
+2020,Campeche,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,163976,162670,1306,456089.33,2.8,4159.94,1897303130,0.00796458,0.99203542,11570.61479,4159.93755
+2020,Coahuila,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,25127,25127,0,21614.77,0.86,3616.71,78174300,0,1,3111.16727,3616.707464
+2020,Colima,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,11669.5,11669.5,0,49707.09,4.26,3951.88,196436390,0,1,16833.31677,3951.878696
+2020,Chiapas,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,598149.59,595397.44,2752.15,1109619.15,1.86,4258.33,4725129900,0.004601107,0.995398893,7899.578933,4258.334853
+2020,Chihuahua,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,73176.1,27580.1,45596,130209.21,4.72,4137.95,538799730,0.623099619,0.376900381,7363.056107,4137.954066
+2020,Ciudad de México,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,3413.7,3413.7,0,4495.92,1.32,5180.42,23290740,0,1,6822.726074,5180.416911
+2020,Durango,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,139247.8,135435.8,3812,119026.27,0.88,3954.33,470668570,0.027375657,0.972624343,3380.079039,3954.325125
+2020,Guanajuato,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,389506.75,383441.75,6065,1723360.82,4.49,4537.87,7820381710,0.015570975,0.984429025,20077.65388,4537.866719
+2020,Guerrero,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,495002.7,493466.7,1536,1416255.44,2.87,4361.81,6177439000,0.003103013,0.996896987,12479.60668,4361.811313
+2020,Hidalgo,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,225287.05,208738.11,16548.94,624235.4,2.99,4378.93,2733485240,0.073457129,0.926542871,12133.34384,4378.933396
+2020,Jalisco,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,466581.43,466581.43,0,3090262.09,6.62,4378.89,13531930480,0,1,29002.29115,4378.894115
+2020,Estado de México,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,475369.87,460880.87,14489,1741667.38,3.78,4632.47,8068213480,0.030479424,0.969520576,16972.49655,4632.465173
+2020,Michoacán,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,444830.73,444830.73,0,1948716.49,4.38,4438.47,8649313250,0,1,19444.05516,4438.466701
+2020,Morelos,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,25165.04,25165.04,0,103144.41,4.1,3673.42,378893150,0,1,15056.33013,3673.423989
+2020,Nayarit,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,25672,25667,5,108914.62,4.24,4488.99,488916790,0.000194765,0.999805235,19044.74875,4488.991377
+2020,Nuevo León,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,59710.4,54145.4,5565,52872.55,0.98,4640.2,245339210,0.093199845,0.906800155,4108.818732,4640.200066
+2020,Oaxaca,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,511945.71,511178.38,767.33,729406.04,1.43,4215.46,3074779710,0.00149885,0.99850115,6006.065975,4215.456881
+2020,Puebla,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,505815.49,505815.49,0,1022407.81,2.02,4160.51,4253735429,0,1,8409.658291,4160.507566
+2020,Querétaro,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,92099.09,72732.09,19367,207778.92,2.86,4074.5,846594530,0.21028438,0.78971562,9192.213843,4074.49673
+2020,Quintana Roo,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,57361,39368.5,17992.5,45044.54,1.14,4879.38,219789270,0.31367131,0.68632869,3831.684768,4879.376502
+2020,San Luis Potosí,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,226923.83,167261.71,59662.12,179951.08,1.08,4702.28,846181080,0.262916944,0.737083056,3728.921198,4702.283976
+2020,Sinaloa,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,566316.38,562088.77,4227.61,6209518.97,11.05,3702.16,22988654910,0.007465103,0.992534897,40593.30742,3702.163569
+2020,Sonora,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,55714.49,54484.19,1230.3,634400.19,11.64,3744.47,2375494860,0.022082227,0.977917773,42636.9309,3744.473752
+2020,Tabasco,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,88671,78032.75,10638.25,149737.65,1.92,4006.72,599957470,0.1199744,0.8800256,6766.106957,4006.724227
+2020,Tamaulipas,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,114912.65,88744.15,26168.5,243945.39,2.75,4108.66,1002288690,0.227725146,0.772274854,8722.17889,4108.660098
+2020,Tlaxcala,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,129076,128651,425,340470.05,2.65,3497.91,1190934180,0.003292634,0.996707366,9226.612074,3497.911725
+2020,Veracruz,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,586174.99,583270.49,2904.5,1290602.32,2.21,4477.88,5779159590,0.004955005,0.995044995,9859.102979,4477.877887
+2020,Yucatán,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,100922.96,65624.43,35298.53,95157.1,1.45,4547.87,432762110,0.349757181,0.650242819,4288.044168,4547.869891
+2020,Zacatecas,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,196235.5,185140.5,11095,416054.02,2.25,4866.22,2024608740,0.056539209,0.943460791,10317.23995,4866.216026
+2021,Aguascalientes,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,40039,40039,0,73513.37,1.84,3635.29,267242650,0,1,6674.558555,3635.293145
+2021,Baja California,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,2069,2069,0,23670.21,11.44,5250.95,124291090,0,1,60073.02562,5250.950034
+2021,Baja California Sur,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,5587.5,5587.5,0,29282.33,5.24,3974.13,116371840,0,1,20827.17494,3974.13184
+2021,Campeche,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,140044,139353,691,344891.61,2.47,5831.82,2011345230,0.004934164,0.995065836,14362.2378,5831.818379
+2021,Coahuila,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,25330.2,25330.2,0,22869.48,0.9,4138.16,94637670,0,1,3736.159604,4138.164488
+2021,Colima,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,12224.61,12224.61,0,51557.66,4.22,4198.11,216444930,0,1,17705.67159,4198.113918
+2021,Chiapas,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,596783.52,595093.52,1690,1136586.73,1.91,4468.68,5079037230,0.002831848,0.997168152,8510.686136,4468.675461
+2021,Chihuahua,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,47530.7,47530.7,0,81092.56,1.71,5599.84,454105620,0,1,9553.943451,5599.843192
+2021,Ciudad de México,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,3410,3410,0,4200.13,1.23,5258.92,22088130,0,1,6477.457478,5258.915795
+2021,Durango,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,110191.25,107890.25,2301,265209.5,2.46,5617.01,1489683590,0.020881876,0.979118124,13519.07334,5617.006895
+2021,Guanajuato,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,395788.5,394653.5,1135,1881165.14,4.77,5991.67,11271313430,0.002867693,0.997132307,28478.12261,5991.666117
+2021,Guerrero,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,505838.98,505053.98,785,1457188.17,2.89,4676.24,6814155910,0.001551877,0.998448123,13470.99804,4676.23609
+2021,Hidalgo,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,210232.8,201342.55,8890.25,617696.87,3.07,4459.69,2754733670,0.042287645,0.957712355,13103.25349,4459.685331
+2021,Jalisco,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,459706.75,457161.75,2545,3091895.96,6.76,5779.11,17868411960,0.005536138,0.994463862,38869.15291,5779.111649
+2021,Estado de México,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,467593.75,467593.75,0,1868710.52,4,6141.69,11477034240,0,1,24544.88376,6141.686536
+2021,Michoacán,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,443665.25,443665.25,0,1788203.12,4.03,5101.6,9122696120,0,1,20562.11551,5101.599487
+2021,Morelos,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,24983.5,24983.5,0,100694.05,4.03,3830.79,385737750,0,1,15439.7002,3830.789903
+2021,Nayarit,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,23375,23375,0,103636.13,4.43,6077.59,629857770,0,1,26945.78695,6077.588675
+2021,Nuevo León,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,54466,50878,3588,53546.6,1.05,4150.28,222233390,0.065875959,0.934124041,4080.222341,4150.28013
+2021,Oaxaca,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,514551.62,514551.62,0,758714.06,1.47,4256.61,3229547200,0,1,6276.429953,4256.606501
+2021,Puebla,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,499391.9,483766.9,15625,1111872.9,2.3,5440.11,6048716330,0.031288053,0.968711947,12112.16347,5440.1149
+2021,Querétaro,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,96610.9,87560.9,9050,222324.99,2.54,5430.35,1207301800,0.09367473,0.90632527,12496.53818,5430.346809
+2021,Quintana Roo,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,54320,54320,0,50347.76,0.93,5296.98,266691070,0,1,4909.629418,5296.979846
+2021,San Luis Potosí,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,246781.11,203318.55,43462.56,236455.64,1.16,5709.26,1349987470,0.176117856,0.823882144,5470.384139,5709.263141
+2021,Sinaloa,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,481385.54,481133.54,252,5453336.91,11.33,5968.93,32550595310,0.000523489,0.999476511,67618.55645,5968.931655
+2021,Sonora,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,69824.5,69824.5,0,788867.77,11.3,5035.59,3972416970,0,1,56891.44885,5035.592936
+2021,Tabasco,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,89803,87099,2704,169900.15,1.95,4503.36,765120810,0.030110353,0.969889647,8519.991648,4503.355706
+2021,Tamaulipas,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,92844.3,79004.3,13840,210369.53,2.66,5210.8,1096194360,0.149066771,0.850933229,11806.803,5210.803865
+2021,Tlaxcala,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,119303,119303,0,353029.02,2.96,3516.14,1241298200,0,1,10404.58496,3516.136435
+2021,Veracruz,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,594122.78,558850.78,35272,1285497.17,2.3,4494.97,5778272750,0.0593682,0.9406318,9725.721592,4494.971195
+2021,Yucatán,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,102140.62,97782.15,4358.47,132986.21,1.36,4575.11,608426620,0.04267127,0.95732873,5956.754717,4575.110607
+2021,Zacatecas,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,195724.46,195615.46,109,466509.21,2.38,5842,2725347020,0.000556905,0.999443095,13924.40689,5842.000461
+2022,Aguascalientes,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,28765,28765,0,70886.55,2.46,4440.81,314794050,0,1,10943.64853,4440.814936
+2022,Baja California,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,1469.5,1469.5,0,16460.37,11.2,5215,85840800,0,1,58414.97108,5214.998205
+2022,Baja California Sur,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,5679,5679,0,45573.35,8.02,3966.65,180773420,0,1,31831.91055,3966.647613
+2022,Campeche,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,144187.2,139030.8,5156.4,336900.39,2.42,6787.1,2286577900,0.035761843,0.964238157,15858.39728,6787.103749
+2022,Coahuila,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,15457,15207,250,16395.73,1.08,5542.42,90872030,0.016173902,0.983826098,5879.021155,5542.420496
+2022,Colima,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,11365.1,11365.1,0,49653.35,4.37,5593.86,277753840,0,1,24439.19015,5593.859025
+2022,Chiapas,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,593066.15,593066.15,0,1221861.47,2.06,4826.07,5896793580,0,1,9942.89352,4826.073761
+2022,Chihuahua,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,42165,42145,20,81224.02,1.93,6938.09,563539280,0.000474327,0.999525673,13365.09617,6938.086541
+2022,Ciudad de México,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,3463,3463,0,4954.9,1.43,5561.64,27557360,0,1,7957.655212,5561.637975
+2022,Durango,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,83182.87,80534.3,2648.57,261506.64,3.25,6846.42,1790383380,0.03184033,0.96815967,21523.46246,6846.416519
+2022,Guanajuato,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,368021,368021,0,1850520.24,5.03,7450.91,13788068130,0,1,37465.43847,7450.914522
+2022,Guerrero,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,509365.6,509365.6,0,1483451.64,2.91,5049.21,7490255820,0,1,14705.06807,5049.207954
+2022,Hidalgo,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,211012.39,204496.98,6515.41,603376.91,2.95,7066.28,4263630120,0.030876907,0.969123093,20205.59134,7066.279881
+2022,Jalisco,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,449102.15,448677.15,425,3192743.93,7.12,7000.95,22352253330,0.000946333,0.999053667,49770.97823,7000.953982
+2022,Estado de México,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,448835.36,443975.36,4860,1716289.28,3.87,7729.06,13265295350,0.010828024,0.989171976,29554.92488,7729.055646
+2022,Michoacán,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,458568.7,458568.7,0,1983973.22,4.33,6786.29,13463821390,0,1,29360.53287,6786.291899
+2022,Morelos,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,25120,25120,0,124756.4,4.97,6000.95,748656770,0,1,29803.21537,6000.948809
+2022,Nayarit,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,24966.45,23542.45,1424,111617.38,4.74,7021.42,783712870,0.057036543,0.942963457,31390.64104,7021.423277
+2022,Nuevo León,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,34751.8,26330.8,8421,31605.46,1.2,5052.41,159683630,0.242318384,0.757681616,4594.974361,5052.406451
+2022,Oaxaca,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,519494.8,519271.8,223,770846.94,1.48,4919.33,3792047880,0.000429263,0.999570737,7299.491506,4919.326631
+2022,Puebla,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,456797.17,450836.17,5961,698134.95,1.55,6185.41,4318249180,0.013049555,0.986950445,9453.318592,6185.407535
+2022,Querétaro,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,64233.42,51140.42,13093,206628.6,4.04,6673.34,1378903480,0.203834702,0.796165298,21467.07244,6673.3428
+2022,Quintana Roo,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,55478,55478,0,49597.7,0.89,6964.8,345438310,0,1,6226.581888,6964.805021
+2022,San Luis Potosí,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,153403,132302,21101,159347.17,1.2,6617.23,1054437260,0.137552721,0.862447279,6873.641715,6617.232424
+2022,Sinaloa,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,448619.89,448619.89,0,5222894.85,11.64,6775.08,35385522190,0,1,78876.40067,6775.07842
+2022,Sonora,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,17716,17709,7,180855.83,10.21,6636.09,1200175820,0.000395123,0.999604877,67745.30481,6636.09141
+2022,Tabasco,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,88430,85809,2621,169173.66,1.97,4557.25,770967120,0.029639263,0.970360737,8718.388782,4557.252707
+2022,Tamaulipas,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,78234.28,61471.63,16762.65,204437.92,3.33,6892.25,1409038220,0.214262213,0.785737787,18010.49642,6892.254725
+2022,Tlaxcala,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,119173,119173,0,361413.41,3.03,5803.95,2097626220,0,1,17601.52232,5803.952377
+2022,Veracruz,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,599790,599360,430,1353531.25,2.26,4745.82,6423612740,0.000716918,0.999283082,10709.76965,4745.81783
+2022,Yucatán,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,102018.04,102018.04,0,142707.97,1.4,4904.41,699897770,0,1,6860.529471,4904.405619
+2022,Zacatecas,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,164803.13,161531.95,3271.18,368643.26,2.28,7202.06,2654989930,0.019849016,0.980150984,16110.06981,7202.057431
+2023,Aguascalientes,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,9915,7243,2672,51930.81,7.17,4637.36,240821950,0.269490671,0.730509329,24288.64851,4637.361713
+2023,Baja California,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,1438.2,1438.2,0,17241.38,11.99,6104.84,105255890,0,1,73185.85037,6104.841376
+2023,Baja California Sur,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,5337.25,5337.25,0,34125,6.39,3915.6,133619720,0,1,25035.31219,3915.59619
+2023,Campeche,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,157552,157552,0,471604.33,2.99,7124.57,3359978360,0,1,21326.15492,7124.570633
+2023,Coahuila,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,15456,7395,8061,13627.25,1.84,5860.52,79862790,0.521545031,0.478454969,5167.105978,5860.521382
+2023,Colima,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,12340.38,9988.38,2352,39615.42,3.97,5919.22,234492280,0.190593807,0.809406193,19002.03073,5919.217315
+2023,Chiapas,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,594643.69,594643.69,0,1173023.89,1.97,5134.56,6022957880,0,1,10128.68375,5134.556876
+2023,Chihuahua,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,78677.6,48841.1,29836.5,78450.32,1.61,6855.42,537810210,0.379224837,0.620775163,6835.620431,6855.424044
+2023,Ciudad de México,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,3341,3223,118,4379.98,1.36,6419.59,28117670,0.035318767,0.964681233,8415.944328,6419.588674
+2023,Durango,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,102383.75,72226.25,30157.5,336916.73,4.66,7091.87,2389371270,0.294553579,0.705446421,23337.40725,7091.874808
+2023,Guanajuato,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,361915,296446.75,65468.25,1715650.25,5.79,7784.63,13355694930,0.180893994,0.819106006,36902.84992,7784.625643
+2023,Guerrero,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,508861.67,501369.67,7492,1417023.8,2.83,5260.3,7453972260,0.014723058,0.985276942,14648.32724,5260.301387
+2023,Hidalgo,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,198993.52,175683.52,23310,575940.35,3.28,7328.53,4220796700,0.117139493,0.882860507,21210.72435,7328.530984
+2023,Jalisco,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,430204.84,411425.59,18779.25,2756229.92,6.7,7136.43,19669652000,0.04365188,0.95634812,45721.59625,7136.433669
+2023,Estado de México,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,450312.05,450312.05,0,1742549.63,3.87,7636.71,13307345760,0,1,29551.38722,7636.709756
+2023,Michoacán,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,473717.25,386634.95,87082.3,1821957.21,4.71,6556.82,11946247720,0.183827589,0.816172411,25218.09734,6556.821233
+2023,Morelos,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,26355.7,17949,8406.7,75629.38,4.21,5556.98,420271060,0.318970849,0.681029151,15946.1164,5556.981427
+2023,Nayarit,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,27417.5,27327.5,90,151666.97,5.55,6569.08,996312580,0.003282575,0.996717425,36338.56406,6569.080796
+2023,Nuevo León,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,24973.8,11426.3,13547.5,23568.08,2.06,5727.26,134980450,0.542468507,0.457531493,5404.882317,5727.256951
+2023,Oaxaca,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,517546.88,470045.73,47501.15,708191.74,1.51,5092.52,3606482520,0.091781347,0.908218653,6968.417083,5092.522711
+2023,Puebla,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,499633.91,499633.91,0,1092602.06,2.19,6330.25,6916445750,0,1,13843.02709,6330.251427
+2023,Querétaro,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,76096.55,53363.55,22733,240273.72,4.5,6861.22,1648571790,0.298738905,0.701261095,21664.21198,6861.223899
+2023,Quintana Roo,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,54872,54872,0,61241.63,1.12,7593.9,465062630,0,1,8475.408769,7593.896995
+2023,San Luis Potosí,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,84860.3,44577.05,40283.25,99870.26,2.24,6779.09,677029720,0.474700773,0.525299227,7978.167883,6779.092394
+2023,Sinaloa,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,536367.2,534404.2,1963,6591166.83,12.33,5698.33,37558660570,0.003659806,0.996340194,70024.15616,5698.332562
+2023,Sonora,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,44912,44378,534,500185.07,11.27,5973.43,2987822550,0.011889918,0.988110082,66526.15225,5973.434093
+2023,Tabasco,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,89719,89298,421,179808.06,2.01,4509.52,810847820,0.004692429,0.995307571,9037.637736,4509.518761
+2023,Tamaulipas,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,72411.63,54791.15,17620.48,225254.47,4.11,6197.05,1395913610,0.243337707,0.756662293,19277.47808,6197.051761
+2023,Tlaxcala,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,119392,119392,0,343553.3,2.88,6400.29,2198842280,0,1,18416.99846,6400.294452
+2023,Veracruz,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,598901.83,587121.33,11780.5,1343227.67,2.29,4745.34,6374067360,0.019670169,0.980329831,10642.92517,4745.336552
+2023,Yucatán,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,102267.45,101946.45,321,153287.51,1.5,5246.4,804207630,0.003138829,0.996861171,7863.769264,5246.400245
+2023,Zacatecas,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,63115.63,49839.63,13276,207674.6,4.17,7445.43,1546225910,0.210344094,0.789655906,24498.3043,7445.42621
+2024,Aguascalientes,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,28652,28652,0,48675.65,1.7,3393.77,165193840,0,1,5765.525618,3393.76752
+2024,Baja California,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,309,309,0,3085.57,9.99,4879.28,15055350,0,1,48722.81553,4879.276762
+2024,Baja California Sur,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,4971,4971,0,33373.54,6.71,3944,131625400,0,1,26478.65621,3944.004741
+2024,Campeche,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,145041,145041,0,457364.7,3.15,5468.62,2501155670,0,1,17244.47342,5468.624207
+2024,Coahuila,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,14672.15,14643.15,29,14863.08,1.02,4879.67,72526920,0.001976534,0.998023466,4943.169202,4879.669624
+2024,Colima,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,12451.5,12451.5,0,50415.92,4.05,6142.86,309698070,0,1,24872.35032,6142.862612
+2024,Chiapas,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,593990.49,593990.49,0,1232254.69,2.07,5100.76,6285434700,0,1,10581.70931,5100.759406
+2024,Chihuahua,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,68756,60867,7889,107360.88,1.76,5351.02,574490170,0.114739077,0.885260923,8355.491448,5351.019571
+2024,Ciudad de México,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,3165,3165,0,4055.76,1.28,7284.71,29545050,0,1,9334.92891,7284.713593
+2024,Durango,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,102387.13,85158.84,17228.29,232231.16,2.73,6572.25,1526281180,0.168266168,0.831733832,14906.96321,6572.249736
+2024,Guanajuato,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,320320,320320,0,1728940.55,5.4,5366.67,9278650060,0,1,28966.81462,5366.668079
+2024,Guerrero,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,507329.07,507329.07,0,1431755.09,2.82,5252.09,7519699880,0,1,14822.13483,5252.085313
+2024,Hidalgo,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,213506.74,212650.7,856.04,658176.82,3.1,5799.46,3817072550,0.004009428,0.995990572,17877.99556,5799.463661
+2024,Jalisco,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,424869.78,424869.78,0,3097991.51,7.29,6526.54,20219170910,0,1,47589.10109,6526.541743
+2024,Estado de México,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,460477.14,460477.14,0,1681442.55,3.65,7606.63,12790117310,0,1,27775.79211,7606.633548
+2024,Michoacán,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,448390.3,436313.3,12077,1966052.23,4.51,6100.52,11993935600,0.026934124,0.973065876,26748.87392,6100.517279
+2024,Morelos,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,25840.5,25840.5,0,152525.4,5.9,5189.57,791541510,0,1,30631.81866,5189.57177
+2024,Nayarit,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,23808.55,23808.55,0,121808.1,5.12,5298.68,645421940,0,1,27108.83023,5298.678331
+2024,Nuevo León,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,31835,30165.5,1669.5,31280.83,1.04,5911.36,184912260,0.052442281,0.947557719,5808.457986,5911.360408
+2024,Oaxaca,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,514586.24,508643.99,5942.25,771280.94,1.52,4910.98,3787748490,0.011547627,0.988452373,7360.765204,4910.984174
+2024,Puebla,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,490436.94,490066.94,370,1043105.53,2.13,6277.87,6548485460,0.000754429,0.999245571,13352.34956,6277.874359
+2024,Querétaro,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,72539.55,69039.55,3500,260306.19,3.77,4756.77,1238215710,0.048249541,0.951750459,17069.52566,4756.766291
+2024,Quintana Roo,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,48460,48460,0,47608.55,0.98,7322.56,348616390,0,1,7193.899917,7322.558448
+2024,San Luis Potosí,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,132361.72,118118.72,14243,157842.83,1.34,6766,1067965139,0.10760664,0.89239336,8068.534762,6766.003492
+2024,Sinaloa,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,286100.27,285353.36,746.91,3310962.52,11.6,4572.94,15140840440,0.002610658,0.997389342,52921.44758,4572.942263
+2024,Sonora,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,15287,14394,893,168489.69,11.71,5323.93,897027070,0.058415647,0.941584353,58679.0783,5323.928544
+2024,Tabasco,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,89869,88603,1266,176990.16,2,4509.94,798215350,0.014087171,0.985912829,8881.987671,4509.941965
+2024,Tamaulipas,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,84294.59,79222.07,5072.52,221004.08,2.79,5279.92,1166882990,0.060176104,0.939823896,13842.91673,5279.916054
+2024,Tlaxcala,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,119538,119538,0,354969.67,2.97,6172.26,2190964380,0,1,18328.60162,6172.257985
+2024,Veracruz,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,598868.87,595613.87,3255,1356201.63,2.28,4490.4,6089894540,0.005435247,0.994564753,10168.99499,4490.40497
+2024,Yucatán,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,100741.6,100741.6,0,158934.11,1.58,5417.3,860994270,0,1,8546.561401,5417.303246
+2024,Zacatecas,Maíz grano,Maíz grano blanco,Tonelada,Cielo abierto,Convencional,Nacional,144403.92,144363.92,40,323512.19,2.24,6202.66,2006636630,0.000277001,0.999722999,13895.99832,6202.661575
